@@ -16,7 +16,7 @@ from plotly.subplots import make_subplots
 # Plotly mapbox token
 mapbox_access_token = "pk.eyJ1IjoicGxvdGx5bWFwYm94IiwiYSI6ImNqdnBvNDMyaTAxYzkzeW5ubWdpZ2VjbmMifQ.TXcBE-xg9BFdV2ocecc_7g"
 
-app = dash.Dash(__name__)
+app = dash.Dash(__name__, meta_tags=[{"name": "viewport", "content": "width=device-width"}])
 
 server = app.server
 # ================================================================ DATA 
