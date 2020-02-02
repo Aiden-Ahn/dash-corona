@@ -1,480 +1,480 @@
-﻿State,Country,Date,Day_Elapsed,Confirmed,Deaths,Recovered,latitude,longitude,nat_cod,,
-Hubei,Mainland China,2020-01-24,1,549,31,24,30.583333,114.266667,CN,,
-Guangdong,Mainland China,2020-01-24,1,53,2,,23.116667,113.25,CN,,
-Zhejiang,Mainland China,2020-01-24,1,43,1,,30.29365,120.161419,CN,,
-Beijing,Mainland China,2020-01-24,1,36,1,,39.928819,116.388869,CN,,
-Chongqing,Mainland China,2020-01-24,1,27,,,29.562778,106.552778,CN,,
-Hunan,Mainland China,2020-01-24,1,24,,,28.2,112.966667,CN,,
-Guangxi,Mainland China,2020-01-24,1,23,,,23.0027,109.84,CN,,
-Shanghai,Mainland China,2020-01-24,1,20,1,,31.222222,121.458056,CN,,
-Jiangxi,Mainland China,2020-01-24,1,18,,,28.655758,115.905049,CN,,
-Sichuan,Mainland China,2020-01-24,1,15,,,30.666667,104.066667,CN,,
-Shandong,Mainland China,2020-01-24,1,15,,,36.790556,118.063333,CN,,
-Anhui,Mainland China,2020-01-24,1,15,,,31.863889,117.280833,CN,,
-Fujian,Mainland China,2020-01-24,1,10,,,24.513333,117.655556,CN,,
-Henan,Mainland China,2020-01-24,1,9,,,34.683611,113.5325,CN,,
-Jiangsu,Mainland China,2020-01-24,1,9,,,32.061667,118.777778,CN,,
-Hainan,Mainland China,2020-01-24,1,8,,,20.045833,110.341667,CN,,
-Tianjin,Mainland China,2020-01-24,1,8,,,39.142222,117.176667,CN,,
-Yunnan,Mainland China,2020-01-24,1,5,,,25.038889,102.718333,CN,,
-Shaanxi,Mainland China,2020-01-24,1,5,,,34.258479,108.924205,CN,,
-Heilongjiang,Mainland China,2020-01-24,1,4,,1,45.75,126.65,CN,,
-Liaoning,Mainland China,2020-01-24,1,4,,,41.792222,123.432778,CN,,
-Guizhou,Mainland China,2020-01-24,1,3,,,26.583333,106.716667,CN,,
-Jilin,Mainland China,2020-01-24,1,3,,,43.88,125.322778,CN,,
-Taiwan,Taiwan,2020-01-24,1,3,,,23.69781,120.960515,TW,,
-Ningxia,Mainland China,2020-01-24,1,2,,,38.468056,106.273056,CN,,
-Hong Kong,Hong Kong,2020-01-24,1,2,,,22.396428,114.109497,HK,,
-Macau,Macau,2020-01-24,1,2,,,22.198745,113.543873,MO,,
-Hebei,Mainland China,2020-01-24,1,2,,1,38.041389,114.478611,CN,,
-Gansu,Mainland China,2020-01-24,1,2,,,36.057006,103.839868,CN,,
-Xinjiang,Mainland China,2020-01-24,1,2,,,43.807347,87.630506,CN,,
-Shanxi,Mainland China,2020-01-24,1,1,,,37.869444,112.560278,CN,,
-Inner Mongolia,Mainland China,2020-01-24,1,1,,,40.652222,109.822222,CN,,
-Washington,US,2020-01-24,1,1,,,37.09024,-95.712891,US,,
-Chicago,US,2020-01-24,1,1,,,41.8781,87.6298,US,,
-Japan,Japan,2020-01-24,1,2,,,36.204824,138.252924,JP,,
-Thailand,Thailand,2020-01-24,1,5,,,15.870032,100.992541,TH,,
-South Korea,South Korea,2020-01-24,1,2,,,35.907757,127.766922,KR,,
-Singapore,Singapore,2020-01-24,1,3,,,1.352083,103.819836,SG,,
-Vietnam,Vietnam,2020-01-24,1,2,,,14.058324,108.277199,VN,,
-France,France,2020-01-24,1,2,,,46.227638,2.213749,FR,,
-Hubei,Mainland China,2020-01-25,2,1052,42,52,30.583333,114.266667,CN,,
-Zhejiang,Mainland China,2020-01-25,2,104,1,,30.29365,120.161419,CN,,
-Guangdong,Mainland China,2020-01-25,2,98,2,,23.116667,113.25,CN,,
-Henan,Mainland China,2020-01-25,2,83,,1,34.683611,113.5325,CN,,
-Chongqing,Mainland China,2020-01-25,2,75,,,29.562778,106.552778,CN,,
-Hunan,Mainland China,2020-01-25,2,69,,,28.2,112.966667,CN,,
-Anhui,Mainland China,2020-01-25,2,60,,,31.863889,117.280833,CN,,
-Beijing,Mainland China,2020-01-25,2,51,2,,39.928819,116.388869,CN,,
-Sichuan,Mainland China,2020-01-25,2,44,,,30.666667,104.066667,CN,,
-Shanghai,Mainland China,2020-01-25,2,40,1,1,31.222222,121.458056,CN,,
-Shandong,Mainland China,2020-01-25,2,39,,,36.790556,118.063333,CN,,
-Jiangxi,Mainland China,2020-01-25,2,36,,,28.655758,115.905049,CN,,
-Guangxi,Mainland China,2020-01-25,2,33,,,23.0027,109.84,CN,,
-Jiangsu,Mainland China,2020-01-25,2,31,1,,32.061667,118.777778,CN,,
-Hainan,Mainland China,2020-01-25,2,19,,,20.045833,110.341667,CN,,
-Liaoning,Mainland China,2020-01-25,2,19,,,41.792222,123.432778,CN,,
-Fujian,Mainland China,2020-01-25,2,18,,1,24.513333,117.655556,CN,,
-Heilongjiang,Mainland China,2020-01-25,2,15,,,45.75,126.65,CN,,
-Shaanxi,Mainland China,2020-01-25,2,15,,,34.258479,108.924205,CN,,
-Tianjin,Mainland China,2020-01-25,2,13,,,39.142222,117.176667,CN,,
-Hebei,Mainland China,2020-01-25,2,13,,1,38.041389,114.478611,CN,,
-Yunnan,Mainland China,2020-01-25,2,11,,,25.038889,102.718333,CN,,
-Shanxi,Mainland China,2020-01-25,2,9,,,37.869444,112.560278,CN,,
-Inner Mongolia,Mainland China,2020-01-25,2,7,,,40.652222,109.822222,CN,,
-Gansu,Mainland China,2020-01-25,2,7,,,36.057006,103.839868,CN,,
-Guizhou,Mainland China,2020-01-25,2,5,,,26.583333,106.716667,CN,,
-Hong Kong,Hong Kong,2020-01-25,2,5,,,22.396428,114.109497,HK,,
-Ningxia,Mainland China,2020-01-25,2,4,,,38.468056,106.273056,CN,,
-Jilin,Mainland China,2020-01-25,2,4,,,43.88,125.322778,CN,,
-Xinjiang,Mainland China,2020-01-25,2,4,,,43.807347,87.630506,CN,,
-Taiwan,Taiwan,2020-01-25,2,3,,,23.69781,120.960515,TW,,
-Macau,Macau,2020-01-25,2,2,,,22.198745,113.543873,MO,,
-Qinghai,Mainland China,2020-01-25,2,1,,,36.625541,101.75739,CN,,
-Washington,US,2020-01-25,2,1,,,37.09024,-95.712891,US,,
-Illinois,US,2020-01-25,2,1,,,37.09024,-95.712891,US,,
-Japan,Japan,2020-01-25,2,2,,,36.204824,138.252924,JP,,
-Thailand,Thailand,2020-01-25,2,7,,,15.870032,100.992541,TH,,
-South Korea,South Korea,2020-01-25,2,3,,,35.907757,127.766922,KR,,
-Singapore,Singapore,2020-01-25,2,3,,,1.352083,103.819836,SG,,
-Vietnam,Vietnam,2020-01-25,2,2,,,14.058324,108.277199,VN,,
-France,France,2020-01-25,2,3,,,46.227638,2.213749,FR,,
-Australia,Australia,2020-01-25,2,4,,,-25.274398,133.775136,AU,,
-Nepal,Nepal,2020-01-25,2,1,,,28.394857,84.124008,NP,,
-Malaysia,Malaysia,2020-01-25,2,3,,,4.210484,101.975766,MY,,
-Hubei,Mainland China,2020-01-26,3,1423,76,44,30.583333,114.266667,CN,,
-Guangdong,Mainland China,2020-01-26,3,146,,2,23.116667,113.25,CN,,
-Zhejiang,Mainland China,2020-01-26,3,128,,1,30.29365,120.161419,CN,,
-Henan,Mainland China,2020-01-26,3,128,1,,34.683611,113.5325,CN,,
-Chongqing,Mainland China,2020-01-26,3,110,,,29.562778,106.552778,CN,,
-Hunan,Mainland China,2020-01-26,3,100,,,28.2,112.966667,CN,,
-Anhui,Mainland China,2020-01-26,3,70,,,31.863889,117.280833,CN,,
-Sichuan,Mainland China,2020-01-26,3,69,,,30.666667,104.066667,CN,,
-Beijing,Mainland China,2020-01-26,3,68,,2,39.928819,116.388869,CN,,
-Shandong,Mainland China,2020-01-26,3,63,,,36.790556,118.063333,CN,,
-Shanghai,Mainland China,2020-01-26,3,53,1,1,31.222222,121.458056,CN,,
-Jiangxi,Mainland China,2020-01-26,3,48,,,28.655758,115.905049,CN,,
-Jiangsu,Mainland China,2020-01-26,3,47,,1,32.061667,118.777778,CN,,
-Guangxi,Mainland China,2020-01-26,3,46,,,23.0027,109.84,CN,,
-Fujian,Mainland China,2020-01-26,3,35,,,24.513333,117.655556,CN,,
-Liaoning,Mainland China,2020-01-26,3,23,,,41.792222,123.432778,CN,,
-Hainan,Mainland China,2020-01-26,3,22,,,20.045833,110.341667,CN,,
-Shaanxi,Mainland China,2020-01-26,3,22,,,34.258479,108.924205,CN,,
-Heilongjiang,Mainland China,2020-01-26,3,21,1,,45.75,126.65,CN,,
-Yunnan,Mainland China,2020-01-26,3,19,,,25.038889,102.718333,CN,,
-Hebei,Mainland China,2020-01-26,3,18,1,,38.041389,114.478611,CN,,
-Tianjin,Mainland China,2020-01-26,3,14,,,39.142222,117.176667,CN,,
-Gansu,Mainland China,2020-01-26,3,14,,,36.057006,103.839868,CN,,
-Shanxi,Mainland China,2020-01-26,3,13,,,37.869444,112.560278,CN,,
-Inner Mongolia,Mainland China,2020-01-26,3,11,,,40.652222,109.822222,CN,,
-Hong Kong,Hong Kong,2020-01-26,3,8,,,22.396428,114.109497,HK,,
-Guizhou,Mainland China,2020-01-26,3,7,,,26.583333,106.716667,CN,,
-Jilin,Mainland China,2020-01-26,3,6,,,43.88,125.322778,CN,,
-Macau,Macau,2020-01-26,3,6,,,22.198745,113.543873,MO,,
-Xinjiang,Mainland China,2020-01-26,3,5,,,43.807347,87.630506,CN,,
-Ningxia,Mainland China,2020-01-26,3,4,,,38.468056,106.273056,CN,,
-Taiwan,Taiwan,2020-01-26,3,4,,,23.69781,120.960515,TW,,
-Qinghai,Mainland China,2020-01-26,3,4,,,36.625541,101.75739,CN,,
-Washington,US,2020-01-26,3,1,,,37.09024,-95.712891,US,,
-Illinois,US,2020-01-26,3,1,,,37.09024,-95.712891,US,,
-California,US,2020-01-26,3,2,,,37.09024,-95.712891,US,,
-Arizona,US,2020-01-26,3,1,,,37.09024,-95.712891,US,,
-Japan,Japan,2020-01-26,3,4,,1,36.204824,138.252924,JP,,
-Thailand,Thailand,2020-01-26,3,8,,2,15.870032,100.992541,TH,,
-South Korea,South Korea,2020-01-26,3,3,,,35.907757,127.766922,KR,,
-Singapore,Singapore,2020-01-26,3,4,,,1.352083,103.819836,SG,,
-Vietnam,Vietnam,2020-01-26,3,2,,,14.058324,108.277199,VN,,
-France,France,2020-01-26,3,3,,,46.227638,2.213749,FR,,
-Australia,Australia,2020-01-26,3,4,,,-25.274398,133.775136,AU,,
-Nepal,Nepal,2020-01-26,3,1,,,28.394857,84.124008,NP,,
-Malaysia,Malaysia,2020-01-26,3,4,,,4.210484,101.975766,MY,,
-Ontario,Canada,2020-01-26,3,1,,,56.130366,-106.346771,CA,,
-Hubei,Mainland China,2020-01-27,4,2714,100,47,30.583333,114.266667,CN,,
-Zhejiang,Mainland China,2020-01-27,4,173,,1,30.29365,120.161419,CN,,
-Henan,Mainland China,2020-01-27,4,168,1,,34.683611,113.5325,CN,,
-Guangdong,Mainland China,2020-01-27,4,151,,4,23.116667,113.25,CN,,
-Chongqing,Mainland China,2020-01-27,4,132,,,29.562778,106.552778,CN,,
-Anhui,Mainland China,2020-01-27,4,106,,,31.863889,117.280833,CN,,
-Hunan,Mainland China,2020-01-27,4,100,,,28.2,112.966667,CN,,
-Sichuan,Mainland China,2020-01-27,4,90,,,30.666667,104.066667,CN,,
-Shandong,Mainland China,2020-01-27,4,87,1,,36.790556,118.063333,CN,,
-Beijing,Mainland China,2020-01-27,4,80,1,2,39.928819,116.388869,CN,,
-Jiangxi,Mainland China,2020-01-27,4,72,,2,28.655758,115.905049,CN,,
-Jiangsu,Mainland China,2020-01-27,4,70,,1,32.061667,118.777778,CN,,
-Shanghai,Mainland China,2020-01-27,4,66,1,3,31.222222,121.458056,CN,,
-Fujian,Mainland China,2020-01-27,4,59,,,24.513333,117.655556,CN,,
-Guangxi,Mainland China,2020-01-27,4,51,,,23.0027,109.84,CN,,
-Shaanxi,Mainland China,2020-01-27,4,35,,,34.258479,108.924205,CN,,
-Hainan,Mainland China,2020-01-27,4,33,1,,20.045833,110.341667,CN,,
-Hebei,Mainland China,2020-01-27,4,33,1,,38.041389,114.478611,CN,,
-Heilongjiang,Mainland China,2020-01-27,4,30,1,,45.75,126.65,CN,,
-Liaoning,Mainland China,2020-01-27,4,27,,,41.792222,123.432778,CN,,
-Yunnan,Mainland China,2020-01-27,4,26,,,25.038889,102.718333,CN,,
-Tianjin,Mainland China,2020-01-27,4,23,,,39.142222,117.176667,CN,,
-Shanxi,Mainland China,2020-01-27,4,20,,,37.869444,112.560278,CN,,
-Gansu,Mainland China,2020-01-27,4,19,,,36.057006,103.839868,CN,,
-Inner Mongolia,Mainland China,2020-01-27,4,11,,,40.652222,109.822222,CN,,
-Guizhou,Mainland China,2020-01-27,4,9,,,26.583333,106.716667,CN,,
-Hong Kong,Hong Kong,2020-01-27,4,8,,,22.396428,114.109497,HK,,
-Ningxia,Mainland China,2020-01-27,4,7,,,38.468056,106.273056,CN,,
-Jilin,Mainland China,2020-01-27,4,6,,,43.88,125.322778,CN,,
-Macau,Macau,2020-01-27,4,6,,,22.198745,113.543873,MO,,
-Qinghai,Mainland China,2020-01-27,4,6,,,36.625541,101.75739,CN,,
-Taiwan,Taiwan,2020-01-27,4,5,,,23.69781,120.960515,TW,,
-Xinjiang,Mainland China,2020-01-27,4,5,,,43.807347,87.630506,CN,,
-Washington,US,2020-01-27,4,1,,,37.09024,-95.712891,US,,
-Illinois,US,2020-01-27,4,1,,,37.09024,-95.712891,US,,
-California,US,2020-01-27,4,2,,,37.09024,-95.712891,US,,
-Arizona,US,2020-01-27,4,1,,,37.09024,-95.712891,US,,
-Japan,Japan,2020-01-27,4,4,,1,36.204824,138.252924,JP,,
-Thailand,Thailand,2020-01-27,4,8,,2,15.870032,100.992541,TH,,
-South Korea,South Korea,2020-01-27,4,4,,,35.907757,127.766922,KR,,
-Singapore,Singapore,2020-01-27,4,5,,,1.352083,103.819836,SG,,
-Vietnam,Vietnam,2020-01-27,4,2,,,14.058324,108.277199,VN,,
-France,France,2020-01-27,4,3,,,46.227638,2.213749,FR,,
-Nepal,Nepal,2020-01-27,4,1,,,28.394857,84.124008,NP,,
-Malaysia,Malaysia,2020-01-27,4,4,,,4.210484,101.975766,MY,,
-Ontario,Canada,2020-01-27,4,1,,,56.130366,-106.346771,CA,,
-Cambodia,Cambodia,2020-01-27,4,1,,,12.565679,104.990963,KH,,
-Sri Lanka,Sri Lanka,2020-01-27,4,1,,,7.873054,80.771797,LK,,
-New South Wales,Australia,2020-01-27,4,4,,,-25.274398,133.775136,AU,,
-Victoria,Australia,2020-01-27,4,1,,,-25.274398,133.775136,AU,,
-Bavaria,Germany,2020-01-27,4,1,,,51.165691,10.451526,DE,,
-Hubei,Mainland China,2020-01-28,5,3554,125,80,30.583333,114.266667,CN,,
-Zhejiang,Mainland China,2020-01-28,5,296,,3,30.29365,120.161419,CN,,
-Guangdong,Mainland China,2020-01-28,5,241,,5,23.116667,113.25,CN,,
-Hunan,Mainland China,2020-01-28,5,221,,,28.2,112.966667,CN,,
-Henan,Mainland China,2020-01-28,5,206,2,1,34.683611,113.5325,CN,,
-Anhui,Mainland China,2020-01-28,5,152,,,31.863889,117.280833,CN,,
-Chongqing,Mainland China,2020-01-28,5,147,,1,29.562778,106.552778,CN,,
-Shandong,Mainland China,2020-01-28,5,121,,,36.790556,118.063333,CN,,
-Jiangxi,Mainland China,2020-01-28,5,109,,3,28.655758,115.905049,CN,,
-Sichuan,Mainland China,2020-01-28,5,108,,,30.666667,104.066667,CN,,
-Jiangsu,Mainland China,2020-01-28,5,99,,1,32.061667,118.777778,CN,,
-Beijing,Mainland China,2020-01-28,5,91,1,4,39.928819,116.388869,CN,,
-Fujian,Mainland China,2020-01-28,5,82,,,24.513333,117.655556,CN,,
-Shanghai,Mainland China,2020-01-28,5,80,1,4,31.222222,121.458056,CN,,
-Guangxi,Mainland China,2020-01-28,5,58,,2,23.0027,109.84,CN,,
-Shaanxi,Mainland China,2020-01-28,5,56,,,34.258479,108.924205,CN,,
-Hebei,Mainland China,2020-01-28,5,48,1,,38.041389,114.478611,CN,,
-Yunnan,Mainland China,2020-01-28,5,44,,,25.038889,102.718333,CN,,
-Hainan,Mainland China,2020-01-28,5,43,1,,20.045833,110.341667,CN,,
-Heilongjiang,Mainland China,2020-01-28,5,37,1,,45.75,126.65,CN,,
-Liaoning,Mainland China,2020-01-28,5,36,,,41.792222,123.432778,CN,,
-Shanxi,Mainland China,2020-01-28,5,27,,,37.869444,112.560278,CN,,
-Tianjin,Mainland China,2020-01-28,5,25,,,39.142222,117.176667,CN,,
-Gansu,Mainland China,2020-01-28,5,24,,,36.057006,103.839868,CN,,
-Inner Mongolia,Mainland China,2020-01-28,5,16,,,40.652222,109.822222,CN,,
-Xinjiang,Mainland China,2020-01-28,5,13,,,43.807347,87.630506,CN,,
-Ningxia,Mainland China,2020-01-28,5,12,,,38.468056,106.273056,CN,,
-Guizhou,Mainland China,2020-01-28,5,9,,,26.583333,106.716667,CN,,
-Jilin,Mainland China,2020-01-28,5,9,,,43.88,125.322778,CN,,
-Hong Kong,Hong Kong,2020-01-28,5,8,,,22.396428,114.109497,HK,,
-Taiwan,Taiwan,2020-01-28,5,8,,,23.69781,120.960515,TW,,
-Macau,Macau,2020-01-28,5,7,,,22.198745,113.543873,MO,,
-Qinghai,Mainland China,2020-01-28,5,6,,,36.625541,101.75739,CN,,
-Washington,US,2020-01-28,5,1,,,37.09024,-95.712891,US,,
-Illinois,US,2020-01-28,5,1,,,37.09024,-95.712891,US,,
-California,US,2020-01-28,5,2,,,37.09024,-95.712891,US,,
-Arizona,US,2020-01-28,5,1,,,37.09024,-95.712891,US,,
-Japan,Japan,2020-01-28,5,7,,1,36.204824,138.252924,JP,,
-Thailand,Thailand,2020-01-28,5,14,,5,15.870032,100.992541,TH,,
-South Korea,South Korea,2020-01-28,5,4,,,35.907757,127.766922,KR,,
-Singapore,Singapore,2020-01-28,5,7,,,1.352083,103.819836,SG,,
-Vietnam,Vietnam,2020-01-28,5,2,,,14.058324,108.277199,VN,,
-France,France,2020-01-28,5,4,,,46.227638,2.213749,FR,,
-Nepal,Nepal,2020-01-28,5,1,,,28.394857,84.124008,NP,,
-Malaysia,Malaysia,2020-01-28,5,7,,,4.210484,101.975766,MY,,
-Ontario,Canada,2020-01-28,5,1,,,56.130366,-106.346771,CA,,
-British Columbia,Canada,2020-01-28,5,1,,,56.130366,-106.346771,CA,,
-Cambodia,Cambodia,2020-01-28,5,1,,,12.565679,104.990963,KH,,
-Sri Lanka,Sri Lanka,2020-01-28,5,1,,,7.873054,80.771797,LK,,
-New South Wales,Australia,2020-01-28,5,4,,,-25.274398,133.775136,AU,,
-Victoria,Australia,2020-01-28,5,1,,,-25.274398,133.775136,AU,,
-Bavaria,Germany,2020-01-28,5,4,,,51.165691,10.451526,DE,,
-Hubei,Mainland China,2020-01-29,6,4586,162,90,30.583333,114.266667,CN,,
-Zhejiang,Mainland China,2020-01-29,6,428,,4,30.29365,120.161419,CN,,
-Guangdong,Mainland China,2020-01-29,6,311,,6,23.116667,113.25,CN,,
-Henan,Mainland China,2020-01-29,6,278,2,2,34.683611,113.5325,CN,,
-Hunan,Mainland China,2020-01-29,6,277,,,28.2,112.966667,CN,,
-Anhui,Mainland China,2020-01-29,6,200,,2,31.863889,117.280833,CN,,
-Chongqing,Mainland China,2020-01-29,6,165,,1,29.562778,106.552778,CN,,
-Jiangxi,Mainland China,2020-01-29,6,162,,4,28.655758,115.905049,CN,,
-Shandong,Mainland China,2020-01-29,6,145,,1,36.790556,118.063333,CN,,
-Sichuan,Mainland China,2020-01-29,6,142,1,1,30.666667,104.066667,CN,,
-Jiangsu,Mainland China,2020-01-29,6,129,,1,32.061667,118.777778,CN,,
-Beijing,Mainland China,2020-01-29,6,111,1,4,39.928819,116.388869,CN,,
-Shanghai,Mainland China,2020-01-29,6,101,1,5,31.222222,121.458056,CN,,
-Fujian,Mainland China,2020-01-29,6,101,,,24.513333,117.655556,CN,,
-Guangxi,Mainland China,2020-01-29,6,78,,2,23.0027,109.84,CN,,
-Hebei,Mainland China,2020-01-29,6,65,1,,38.041389,114.478611,CN,,
-Shaanxi,Mainland China,2020-01-29,6,56,,,34.258479,108.924205,CN,,
-Yunnan,Mainland China,2020-01-29,6,55,,,25.038889,102.718333,CN,,
-Hainan,Mainland China,2020-01-29,6,43,1,,20.045833,110.341667,CN,,
-Heilongjiang,Mainland China,2020-01-29,6,43,1,,45.75,126.65,CN,,
-Liaoning,Mainland China,2020-01-29,6,39,,1,41.792222,123.432778,CN,,
-Shanxi,Mainland China,2020-01-29,6,35,,1,37.869444,112.560278,CN,,
-Tianjin,Mainland China,2020-01-29,6,27,,,39.142222,117.176667,CN,,
-Gansu,Mainland China,2020-01-29,6,26,,,36.057006,103.839868,CN,,
-Inner Mongolia,Mainland China,2020-01-29,6,16,,,40.652222,109.822222,CN,,
-Jilin,Mainland China,2020-01-29,6,14,,1,43.88,125.322778,CN,,
-Xinjiang,Mainland China,2020-01-29,6,14,,,43.807347,87.630506,CN,,
-Guizhou,Mainland China,2020-01-29,6,12,,1,26.583333,106.716667,CN,,
-Ningxia,Mainland China,2020-01-29,6,12,,,38.468056,106.273056,CN,,
-Hong Kong,Hong Kong,2020-01-29,6,10,,,22.396428,114.109497,HK,,
-Taiwan,Taiwan,2020-01-29,6,8,,,23.69781,120.960515,TW,,
-Macau,Macau,2020-01-29,6,7,,,22.198745,113.543873,MO,,
-Qinghai,Mainland China,2020-01-29,6,6,,,36.625541,101.75739,CN,,
-Tibet,Mainland China,2020-01-29,6,1,,,29.65,91.1,CN,,
-Washington,US,2020-01-29,6,1,,,37.09024,-95.712891,US,,
-Illinois,US,2020-01-29,6,1,,,37.09024,-95.712891,US,,
-California,US,2020-01-29,6,2,,,37.09024,-95.712891,US,,
-Arizona,US,2020-01-29,6,1,,,37.09024,-95.712891,US,,
-Japan,Japan,2020-01-29,6,11,,1,36.204824,138.252924,JP,,
-Thailand,Thailand,2020-01-29,6,14,,5,15.870032,100.992541,TH,,
-South Korea,South Korea,2020-01-29,6,4,,,35.907757,127.766922,KR,,
-Singapore,Singapore,2020-01-29,6,10,,,1.352083,103.819836,SG,,
-Vietnam,Vietnam,2020-01-29,6,2,,,14.058324,108.277199,VN,,
-France,France,2020-01-29,6,5,,,46.227638,2.213749,FR,,
-Nepal,Nepal,2020-01-29,6,1,,,28.394857,84.124008,NP,,
-Malaysia,Malaysia,2020-01-29,6,7,,,4.210484,101.975766,MY,,
-Ontario,Canada,2020-01-29,6,2,,,56.130366,-106.346771,CA,,
-British Columbia,Canada,2020-01-29,6,1,,,56.130366,-106.346771,CA,,
-Cambodia,Cambodia,2020-01-29,6,1,,,12.565679,104.990963,KH,,
-Sri Lanka,Sri Lanka,2020-01-29,6,1,,,7.873054,80.771797,LK,,
-New South Wales,Australia,2020-01-29,6,4,,,-25.274398,133.775136,AU,,
-Victoria,Australia,2020-01-29,6,2,,,-25.274398,133.775136,AU,,
-Queensland,Australia,2020-01-29,6,1,,,-25.274398,133.775136,AU,,
-Bavaria,Germany,2020-01-29,6,4,,,51.165691,10.451526,DE,,
-Finland,Finland,2020-01-29,6,1,,,61.92411,25.748151,FI,,
-United Arab Emirates,United Arab Emirates,2020-01-29,6,4,,,23.424076,53.847818,AE,,
-Hubei,Mainland China,2020-01-30,7,5806,204,116,30.583333,114.266667,CN,,
-Zhejiang,Mainland China,2020-01-30,7,537,,9,30.29365,120.161419,CN,,
-Guangdong,Mainland China,2020-01-30,7,393,,11,23.116667,113.25,CN,,
-Henan,Mainland China,2020-01-30,7,352,2,3,34.683611,113.5325,CN,,
-Hunan,Mainland China,2020-01-30,7,332,,2,28.2,112.966667,CN,,
-Jiangxi,Mainland China,2020-01-30,7,240,,7,28.655758,115.905049,CN,,
-Anhui,Mainland China,2020-01-30,7,237,,3,31.863889,117.280833,CN,,
-Chongqing,Mainland China,2020-01-30,7,206,,1,29.562778,106.552778,CN,,
-Shandong,Mainland China,2020-01-30,7,178,,2,36.790556,118.063333,CN,,
-Sichuan,Mainland China,2020-01-30,7,177,1,1,30.666667,104.066667,CN,,
-Jiangsu,Mainland China,2020-01-30,7,168,,2,32.061667,118.777778,CN,,
-Shanghai,Mainland China,2020-01-30,7,128,1,9,31.222222,121.458056,CN,,
-Beijing,Mainland China,2020-01-30,7,121,1,5,39.928819,116.388869,CN,,
-Fujian,Mainland China,2020-01-30,7,101,,,24.513333,117.655556,CN,,
-Guangxi,Mainland China,2020-01-30,7,87,,2,23.0027,109.84,CN,,
-Hebei,Mainland China,2020-01-30,7,82,1,,38.041389,114.478611,CN,,
-Yunnan,Mainland China,2020-01-30,7,76,,,25.038889,102.718333,CN,,
-Shaanxi,Mainland China,2020-01-30,7,87,,,34.258479,108.924205,CN,,
-Heilongjiang,Mainland China,2020-01-30,7,59,2,,45.75,126.65,CN,,
-Hainan,Mainland China,2020-01-30,7,50,1,1,20.045833,110.341667,CN,,
-Liaoning,Mainland China,2020-01-30,7,45,,1,41.792222,123.432778,CN,,
-Shanxi,Mainland China,2020-01-30,7,39,,1,37.869444,112.560278,CN,,
-Tianjin,Mainland China,2020-01-30,7,32,,,39.142222,117.176667,CN,,
-Gansu,Mainland China,2020-01-30,7,29,,,36.057006,103.839868,CN,,
-Ningxia,Mainland China,2020-01-30,7,21,,1,38.468056,106.273056,CN,,
-Inner Mongolia,Mainland China,2020-01-30,7,20,,,40.652222,109.822222,CN,,
-Xinjiang,Mainland China,2020-01-30,7,17,,,43.807347,87.630506,CN,,
-Guizhou,Mainland China,2020-01-30,7,15,,1,26.583333,106.716667,CN,,
-Jilin,Mainland China,2020-01-30,7,14,,1,43.88,125.322778,CN,,
-Hong Kong,Hong Kong,2020-01-30,7,12,,,22.396428,114.109497,HK,,
-Taiwan,Taiwan,2020-01-30,7,9,,,23.69781,120.960515,TW,,
-Qinghai,Mainland China,2020-01-30,7,8,,,36.625541,101.75739,CN,,
-Macau,Macau,2020-01-30,7,7,,,22.198745,113.543873,MO,,
-Tibet,Mainland China,2020-01-30,7,1,,,29.65,91.1,CN,,
-Washington,US,2020-01-30,7,1,,,37.09024,-95.712891,US,,
-Illinois,US,2020-01-30,7,2,,,37.09024,-95.712891,US,,
-California,US,2020-01-30,7,2,,,37.09024,-95.712891,US,,
-Arizona,US,2020-01-30,7,1,,,37.09024,-95.712891,US,,
-Japan,Japan,2020-01-30,7,11,,1,36.204824,138.252924,JP,,
-Thailand,Thailand,2020-01-30,7,14,,5,15.870032,100.992541,TH,,
-South Korea,South Korea,2020-01-30,7,6,,,35.907757,127.766922,KR,,
-Singapore,Singapore,2020-01-30,7,10,,,1.352083,103.819836,SG,,
-Vietnam,Vietnam,2020-01-30,7,2,,,14.058324,108.277199,VN,,
-France,France,2020-01-30,7,5,,,46.227638,2.213749,FR,,
-Nepal,Nepal,2020-01-30,7,1,,,28.394857,84.124008,NP,,
-Malaysia,Malaysia,2020-01-30,7,8,,,4.210484,101.975766,MY,,
-Ontario,Canada,2020-01-30,7,2,,,56.130366,-106.346771,CA,,
-British Columbia,Canada,2020-01-30,7,1,,,56.130366,-106.346771,CA,,
-Cambodia,Cambodia,2020-01-30,7,1,,,12.565679,104.990963,KH,,
-Sri Lanka,Sri Lanka,2020-01-30,7,1,,,7.873054,80.771797,LK,,
-New South Wales,Australia,2020-01-30,7,4,,2,-25.274398,133.775136,AU,,
-Victoria,Australia,2020-01-30,7,2,,,-25.274398,133.775136,AU,,
-Queensland,Australia,2020-01-30,7,3,,,-25.274398,133.775136,AU,,
-Bavaria,Germany,2020-01-30,7,4,,,51.165691,10.451526,DE,,
-Finland,Finland,2020-01-30,7,1,,,61.92411,25.748151,FI,,
-United Arab Emirates,United Arab Emirates,2020-01-30,7,4,,,23.424076,53.847818,AE,,
-Philippines,Philippines,2020-01-30,7,1,,,12.879721,121.774017,PH,,
-India,India,2020-01-30,7,1,,,20.593684,78.96288,IN,,
-Italy,Italy,2020-01-30,7,2,,,41.87194,12.56738,IT,,
-Hubei,Mainland China,2020-01-31,8,7153,249,169,30.583333,114.266667,CN,,
-Zhejiang,Mainland China,2020-01-31,8,537,,14,30.29365,120.161419,CN,,
-Guangdong,Mainland China,2020-01-31,8,436,,10,23.116667,113.25,CN,,
-Henan,Mainland China,2020-01-31,8,352,2,3,34.683611,113.5325,CN,,
-Hunan,Mainland China,2020-01-31,8,332,,3,28.2,112.966667,CN,,
-Jiangxi,Mainland China,2020-01-31,8,240,,7,28.655758,115.905049,CN,,
-Chongqing,Mainland China,2020-01-31,8,238,1,1,29.562778,106.552778,CN,,
-Anhui,Mainland China,2020-01-31,8,237,,3,31.863889,117.280833,CN,,
-Shandong,Mainland China,2020-01-31,8,184,,2,36.790556,118.063333,CN,,
-Sichuan,Mainland China,2020-01-31,8,177,1,1,30.666667,104.066667,CN,,
-Jiangsu,Mainland China,2020-01-31,8,168,,5,32.061667,118.777778,CN,,
-Shanghai,Mainland China,2020-01-31,8,153,1,9,31.222222,121.458056,CN,,
-Beijing,Mainland China,2020-01-31,8,139,1,5,39.928819,116.388869,CN,,
-Fujian,Mainland China,2020-01-31,8,120,,,24.513333,117.655556,CN,,
-Hebei,Mainland China,2020-01-31,8,96,1,,38.041389,114.478611,CN,,
-Guangxi,Mainland China,2020-01-31,8,88,,2,23.0027,109.84,CN,,
-Shaanxi,Mainland China,2020-01-31,8,87,,,34.258479,108.924205,CN,,
-Yunnan,Mainland China,2020-01-31,8,83,,1,25.038889,102.718333,CN,,
-Liaoning,Mainland China,2020-01-31,8,60,,1,41.792222,123.432778,CN,,
-Heilongjiang,Mainland China,2020-01-31,8,59,2,,45.75,126.65,CN,,
-Hainan,Mainland China,2020-01-31,8,58,1,1,20.045833,110.341667,CN,,
-Shanxi,Mainland China,2020-01-31,8,47,,1,37.869444,112.560278,CN,,
-Gansu,Mainland China,2020-01-31,8,35,,,36.057006,103.839868,CN,,
-Tianjin,Mainland China,2020-01-31,8,32,,,39.142222,117.176667,CN,,
-Guizhou,Mainland China,2020-01-31,8,29,,2,26.583333,106.716667,CN,,
-Ningxia,Mainland China,2020-01-31,8,21,,1,38.468056,106.273056,CN,,
-Inner Mongolia,Mainland China,2020-01-31,8,20,,,40.652222,109.822222,CN,,
-Xinjiang,Mainland China,2020-01-31,8,17,,,43.807347,87.630506,CN,,
-Jilin,Mainland China,2020-01-31,8,14,,1,43.88,125.322778,CN,,
-Hong Kong,Hong Kong,2020-01-31,8,13,,,22.396428,114.109497,HK,,
-Taiwan,Taiwan,2020-01-31,8,10,,,23.69781,120.960515,TW,,
-Qinghai,Mainland China,2020-01-31,8,8,,,36.625541,101.75739,CN,,
-Macau,Macau,2020-01-31,8,7,,,22.198745,113.543873,MO,,
-Tibet,Mainland China,2020-01-31,8,1,,,29.65,91.1,CN,,
-Washington,US,2020-01-31,8,1,,,37.09024,-95.712891,US,,
-Illinois,US,2020-01-31,8,2,,,37.09024,-95.712891,US,,
-California,US,2020-01-31,8,3,,,37.09024,-95.712891,US,,
-Arizona,US,2020-01-31,8,1,,,37.09024,-95.712891,US,,
-Japan,Japan,2020-01-31,8,17,,1,36.204824,138.252924,JP,,
-Thailand,Thailand,2020-01-31,8,19,,7,15.870032,100.992541,TH,,
-South Korea,South Korea,2020-01-31,8,11,,,35.907757,127.766922,KR,,
-Singapore,Singapore,2020-01-31,8,16,,,1.352083,103.819836,SG,,
-Vietnam,Vietnam,2020-01-31,8,2,,,14.058324,108.277199,VN,,
-France,France,2020-01-31,8,6,,,46.227638,2.213749,FR,,
-Nepal,Nepal,2020-01-31,8,1,,,28.394857,84.124008,NP,,
-Malaysia,Malaysia,2020-01-31,8,8,,,4.210484,101.975766,MY,,
-Ontario,Canada,2020-01-31,8,2,,,56.130366,-106.346771,CA,,
-British Columbia,Canada,2020-01-31,8,1,,,56.130366,-106.346771,CA,,
-Cambodia,Cambodia,2020-01-31,8,1,,,12.565679,104.990963,KH,,
-Sri Lanka,Sri Lanka,2020-01-31,8,1,,,7.873054,80.771797,LK,,
-New South Wales,Australia,2020-01-31,8,4,,2,-25.274398,133.775136,AU,,
-Victoria,Australia,2020-01-31,8,2,,,-25.274398,133.775136,AU,,
-Queensland,Australia,2020-01-31,8,3,,,-25.274398,133.775136,AU,,
-Bavaria,Germany,2020-01-31,8,7,,,51.165691,10.451526,DE,,
-Finland,Finland,2020-01-31,8,1,,,61.92411,25.748151,FI,,
-United Arab Emirates,United Arab Emirates,2020-01-31,8,4,,,23.424076,53.847818,AE,,
-Philippines,Philippines,2020-01-31,8,1,,,12.879721,121.774017,PH,,
-India,India,2020-01-31,8,1,,,20.593684,78.96288,IN,,
-Italy,Italy,2020-01-31,8,2,,,41.87194,12.56738,IT,,
-Sweden,Sweden,2020-01-31,8,1,,,60.128161,18.643501,SE,,
-Russia,Russia,2020-01-31,8,2,,,61.52401,105.318756,RU,,
-Spain,Spain,2020-01-31,8,1,,,40.463667,-3.74922,ES,,
-UK,UK,2020-01-31,8,2,,,55.378051,-3.435973,GB,,
-Hubei,Mainland China,2020-02-01,9,7153,249,168,30.583333,114.266667,CN,,
-Zhejiang,Mainland China,2020-02-01,9,599,0,21,30.29365,120.161419,CN,,
-Guangdong,Mainland China,2020-02-01,9,535,0,14,23.116667,113.25,CN,,
-Henan,Mainland China,2020-02-01,9,422,2,3,34.683611,113.5325,CN,,
-Hunan,Mainland China,2020-02-01,9,389,0,8,28.2,112.966667,CN,,
-Anhui,Mainland China,2020-02-01,9,297,0,5,31.863889,117.280833,CN,,
-Jiangxi,Mainland China,2020-02-01,9,286,0,9,28.655758,115.905049,CN,,
-Chongqing,Mainland China,2020-02-01,9,247,1,3,29.562778,106.552778,CN,,
-Sichuan,Mainland China,2020-02-01,9,207,1,3,30.666667,104.066667,CN,,
-Shandong,Mainland China,2020-02-01,9,206,0,3,36.790556,118.063333,CN,,
-Jiangsu,Mainland China,2020-02-01,9,202,0,6,32.061667,118.777778,CN,,
-Shanghai,Mainland China,2020-02-01,9,169,1,10,31.222222,121.458056,CN,,
-Beijing,Mainland China,2020-02-01,9,168,1,9,39.928819,116.388869,CN,,
-Fujian,Mainland China,2020-02-01,9,144,0,0,24.513333,117.655556,CN,,
-Shaanxi,Mainland China,2020-02-01,9,101,0,0,34.258479,108.924205,CN,,
-Guangxi,Mainland China,2020-02-01,9,100,0,2,23.0027,109.84,CN,,
-Hebei,Mainland China,2020-02-01,9,96,1,0,38.041389,114.478611,CN,,
-Yunnan,Mainland China,2020-02-01,9,93,0,2,25.038889,102.718333,CN,,
-Heilongjiang,Mainland China,2020-02-01,9,80,2,2,45.75,126.65,CN,,
-Liaoning,Mainland China,2020-02-01,9,64,0,1,41.792222,123.432778,CN,,
-Hainan,Mainland China,2020-02-01,9,62,1,1,20.045833,110.341667,CN,,
-Shanxi,Mainland China,2020-02-01,9,47,0,1,37.869444,112.560278,CN,,
-Tianjin,Mainland China,2020-02-01,9,41,0,0,39.142222,117.176667,CN,,
-Gansu,Mainland China,2020-02-01,9,40,0,0,36.057006,103.839868,CN,,
-Guizhou,Mainland China,2020-02-01,9,29,0,2,26.583333,106.716667,CN,,
-Ningxia,Mainland China,2020-02-01,9,26,0,0,38.468056,106.273056,CN,,
-Inner Mongolia,Mainland China,2020-02-01,9,23,0,1,40.652222,109.822222,CN,,
-Japan,Japan,2020-02-01,9,20,0,1,36.204824,138.252924,JP,,
-Thailand,Thailand,2020-02-01,9,19,0,5,15.870032,100.992541,TH,,
-Xinjiang,Mainland China,2020-02-01,9,18,0,0,43.807347,87.630506,CN,,
-Jilin,Mainland China,2020-02-01,9,17,0,1,43.88,125.322778,CN,,
-Singapore,Singapore,2020-02-01,9,16,0,0,1.352083,103.819836,SG,,
-Hong Kong,Hong Kong,2020-02-01,9,13,0,0,22.396428,114.109497,HK,,
-South Korea,South Korea,2020-02-01,9,12,0,0,35.907757,127.766922,KR,,
-Taiwan,Taiwan,2020-02-01,9,10,0,0,23.69781,120.960515,TW,,
-Qinghai,Mainland China,2020-02-01,9,9,0,0,36.625541,101.75739,CN,,
-Malaysia,Malaysia,2020-02-01,9,8,0,0,4.210484,101.975766,MY,,
-Bavaria,Germany,2020-02-01,9,8,0,0,51.165691,10.451526,DE,,
-Macau,Macau,2020-02-01,9,7,0,0,22.198745,113.543873,MO,,
-France,France,2020-02-01,9,6,0,0,46.227638,2.213749,FR,,
-Vietnam,Vietnam,2020-02-01,9,6,0,1,14.058324,108.277199,VN,,
-New South Wales,Australia,2020-02-01,9,4,0,2,-25.274398,133.775136,AU,,
-Victoria,Australia,2020-02-01,9,4,0,0,-25.274398,133.775136,AU,,
-United Arab Emirates,United Arab Emirates,2020-02-01,9,4,0,0,23.424076,53.847818,AE,,
-Queensland,Australia,2020-02-01,9,3,0,0,-25.274398,133.775136,AU,,
-Ontario,Canada,2020-02-01,9,3,0,0,56.130366,-106.346771,CA,,
-Italy,Italy,2020-02-01,9,2,0,0,41.87194,12.56738,IT,,
-Russia,Russia,2020-02-01,9,2,0,0,61.52401,105.318756,RU,,
-UK,UK,2020-02-01,9,2,0,0,55.378051,-3.435973,GB,,
-Chicago,US,2020-02-01,9,2,0,0,41.8781,87.6298,US,,
-South Australia,Australia,2020-02-01,9,1,0,0,-30.000233,136.209152,AU,,
-Cambodia,Cambodia,2020-02-01,9,1,0,0,12.565679,104.990963,KH,,
-British Columbia,Canada,2020-02-01,9,1,0,0,56.130366,-106.346771,CA,,
-Finland,Finland,2020-02-01,9,1,0,0,61.92411,25.748151,FI,,
-India,India,2020-02-01,9,1,0,0,20.593684,78.96288,IN,,
-Tibet,Mainland China,2020-02-01,9,1,0,0,29.65,91.1,CN,,
-Nepal,Nepal,2020-02-01,9,1,0,0,28.394857,84.124008,NP,,
-Philippines,Philippines,2020-02-01,9,1,0,0,12.879721,121.774017,PH,,
-Spain,Spain,2020-02-01,9,1,0,0,40.463667,-3.74922,ES,,
-Sri Lanka,Sri Lanka,2020-02-01,9,1,0,0,7.873054,80.771797,LK,,
-Sweden,Sweden,2020-02-01,9,1,0,0,60.128161,18.643501,SE,,
-Boston,US,2020-02-01,9,1,0,0,42.3601,71.0589,US,,
-Los Angeles,US,2020-02-01,9,1,0,0,34.052235,-118.243683,US,,
-Orange,US,2020-02-01,9,1,0,0,33.787914,-117.853104,US,,
-Santa Clara,US,2020-02-01,9,1,0,0,37.354107,-121.955238,US,,
-Washington,US,2020-02-01,9,1,0,0,37.09024,-95.712891,US,,
-Arizona,US,2020-02-01,9,1,0,0,37.09024,-95.712891,US,,
+﻿State,Country,Date,Day_Elapsed,Confirmed,Deaths,Recovered,latitude,longitude,nat_cod
+Hubei,Mainland China,24/1/20,1,549,31,24,30.583333,114.266667,CN
+Guangdong,Mainland China,24/1/20,1,53,2,,23.116667,113.25,CN
+Zhejiang,Mainland China,24/1/20,1,43,1,,30.29365,120.161419,CN
+Beijing,Mainland China,24/1/20,1,36,1,,39.928819,116.388869,CN
+Chongqing,Mainland China,24/1/20,1,27,,,29.562778,106.552778,CN
+Hunan,Mainland China,24/1/20,1,24,,,28.2,112.966667,CN
+Guangxi,Mainland China,24/1/20,1,23,,,23.0027,109.84,CN
+Shanghai,Mainland China,24/1/20,1,20,1,,31.222222,121.458056,CN
+Jiangxi,Mainland China,24/1/20,1,18,,,28.655758,115.905049,CN
+Sichuan,Mainland China,24/1/20,1,15,,,30.666667,104.066667,CN
+Shandong,Mainland China,24/1/20,1,15,,,36.790556,118.063333,CN
+Anhui,Mainland China,24/1/20,1,15,,,31.863889,117.280833,CN
+Fujian,Mainland China,24/1/20,1,10,,,24.513333,117.655556,CN
+Henan,Mainland China,24/1/20,1,9,,,34.683611,113.5325,CN
+Jiangsu,Mainland China,24/1/20,1,9,,,32.061667,118.777778,CN
+Hainan,Mainland China,24/1/20,1,8,,,20.045833,110.341667,CN
+Tianjin,Mainland China,24/1/20,1,8,,,39.142222,117.176667,CN
+Yunnan,Mainland China,24/1/20,1,5,,,25.038889,102.718333,CN
+Shaanxi,Mainland China,24/1/20,1,5,,,34.258479,108.924205,CN
+Heilongjiang,Mainland China,24/1/20,1,4,,1,45.75,126.65,CN
+Liaoning,Mainland China,24/1/20,1,4,,,41.792222,123.432778,CN
+Guizhou,Mainland China,24/1/20,1,3,,,26.583333,106.716667,CN
+Jilin,Mainland China,24/1/20,1,3,,,43.88,125.322778,CN
+Taiwan,Taiwan,24/1/20,1,3,,,23.69781,120.960515,TW
+Ningxia,Mainland China,24/1/20,1,2,,,38.468056,106.273056,CN
+Hong Kong,Hong Kong,24/1/20,1,2,,,22.396428,114.109497,HK
+Macau,Macau,24/1/20,1,2,,,22.198745,113.543873,MO
+Hebei,Mainland China,24/1/20,1,2,,1,38.041389,114.478611,CN
+Gansu,Mainland China,24/1/20,1,2,,,36.057006,103.839868,CN
+Xinjiang,Mainland China,24/1/20,1,2,,,43.807347,87.630506,CN
+Shanxi,Mainland China,24/1/20,1,1,,,37.869444,112.560278,CN
+Inner Mongolia,Mainland China,24/1/20,1,1,,,40.652222,109.822222,CN
+Washington,US,24/1/20,1,1,,,37.09024,-95.712891,US
+Chicago,US,24/1/20,1,1,,,41.8781,87.6298,US
+Japan,Japan,24/1/20,1,2,,,36.204824,138.252924,JP
+Thailand,Thailand,24/1/20,1,5,,,15.870032,100.992541,TH
+South Korea,South Korea,24/1/20,1,2,,,35.907757,127.766922,KR
+Singapore,Singapore,24/1/20,1,3,,,1.352083,103.819836,SG
+Vietnam,Vietnam,24/1/20,1,2,,,14.058324,108.277199,VN
+France,France,24/1/20,1,2,,,46.227638,2.213749,FR
+Hubei,Mainland China,25/1/20,2,1052,42,52,30.583333,114.266667,CN
+Zhejiang,Mainland China,25/1/20,2,104,1,,30.29365,120.161419,CN
+Guangdong,Mainland China,25/1/20,2,98,2,,23.116667,113.25,CN
+Henan,Mainland China,25/1/20,2,83,,1,34.683611,113.5325,CN
+Chongqing,Mainland China,25/1/20,2,75,,,29.562778,106.552778,CN
+Hunan,Mainland China,25/1/20,2,69,,,28.2,112.966667,CN
+Anhui,Mainland China,25/1/20,2,60,,,31.863889,117.280833,CN
+Beijing,Mainland China,25/1/20,2,51,2,,39.928819,116.388869,CN
+Sichuan,Mainland China,25/1/20,2,44,,,30.666667,104.066667,CN
+Shanghai,Mainland China,25/1/20,2,40,1,1,31.222222,121.458056,CN
+Shandong,Mainland China,25/1/20,2,39,,,36.790556,118.063333,CN
+Jiangxi,Mainland China,25/1/20,2,36,,,28.655758,115.905049,CN
+Guangxi,Mainland China,25/1/20,2,33,,,23.0027,109.84,CN
+Jiangsu,Mainland China,25/1/20,2,31,1,,32.061667,118.777778,CN
+Hainan,Mainland China,25/1/20,2,19,,,20.045833,110.341667,CN
+Liaoning,Mainland China,25/1/20,2,19,,,41.792222,123.432778,CN
+Fujian,Mainland China,25/1/20,2,18,,1,24.513333,117.655556,CN
+Heilongjiang,Mainland China,25/1/20,2,15,,,45.75,126.65,CN
+Shaanxi,Mainland China,25/1/20,2,15,,,34.258479,108.924205,CN
+Tianjin,Mainland China,25/1/20,2,13,,,39.142222,117.176667,CN
+Hebei,Mainland China,25/1/20,2,13,,1,38.041389,114.478611,CN
+Yunnan,Mainland China,25/1/20,2,11,,,25.038889,102.718333,CN
+Shanxi,Mainland China,25/1/20,2,9,,,37.869444,112.560278,CN
+Inner Mongolia,Mainland China,25/1/20,2,7,,,40.652222,109.822222,CN
+Gansu,Mainland China,25/1/20,2,7,,,36.057006,103.839868,CN
+Guizhou,Mainland China,25/1/20,2,5,,,26.583333,106.716667,CN
+Hong Kong,Hong Kong,25/1/20,2,5,,,22.396428,114.109497,HK
+Ningxia,Mainland China,25/1/20,2,4,,,38.468056,106.273056,CN
+Jilin,Mainland China,25/1/20,2,4,,,43.88,125.322778,CN
+Xinjiang,Mainland China,25/1/20,2,4,,,43.807347,87.630506,CN
+Taiwan,Taiwan,25/1/20,2,3,,,23.69781,120.960515,TW
+Macau,Macau,25/1/20,2,2,,,22.198745,113.543873,MO
+Qinghai,Mainland China,25/1/20,2,1,,,36.625541,101.75739,CN
+Washington,US,25/1/20,2,1,,,37.09024,-95.712891,US
+Illinois,US,25/1/20,2,1,,,37.09024,-95.712891,US
+Japan,Japan,25/1/20,2,2,,,36.204824,138.252924,JP
+Thailand,Thailand,25/1/20,2,7,,,15.870032,100.992541,TH
+South Korea,South Korea,25/1/20,2,3,,,35.907757,127.766922,KR
+Singapore,Singapore,25/1/20,2,3,,,1.352083,103.819836,SG
+Vietnam,Vietnam,25/1/20,2,2,,,14.058324,108.277199,VN
+France,France,25/1/20,2,3,,,46.227638,2.213749,FR
+Australia,Australia,25/1/20,2,4,,,-25.274398,133.775136,AU
+Nepal,Nepal,25/1/20,2,1,,,28.394857,84.124008,NP
+Malaysia,Malaysia,25/1/20,2,3,,,4.210484,101.975766,MY
+Hubei,Mainland China,26/1/20,3,1423,76,44,30.583333,114.266667,CN
+Guangdong,Mainland China,26/1/20,3,146,,2,23.116667,113.25,CN
+Zhejiang,Mainland China,26/1/20,3,128,,1,30.29365,120.161419,CN
+Henan,Mainland China,26/1/20,3,128,1,,34.683611,113.5325,CN
+Chongqing,Mainland China,26/1/20,3,110,,,29.562778,106.552778,CN
+Hunan,Mainland China,26/1/20,3,100,,,28.2,112.966667,CN
+Anhui,Mainland China,26/1/20,3,70,,,31.863889,117.280833,CN
+Sichuan,Mainland China,26/1/20,3,69,,,30.666667,104.066667,CN
+Beijing,Mainland China,26/1/20,3,68,,2,39.928819,116.388869,CN
+Shandong,Mainland China,26/1/20,3,63,,,36.790556,118.063333,CN
+Shanghai,Mainland China,26/1/20,3,53,1,1,31.222222,121.458056,CN
+Jiangxi,Mainland China,26/1/20,3,48,,,28.655758,115.905049,CN
+Jiangsu,Mainland China,26/1/20,3,47,,1,32.061667,118.777778,CN
+Guangxi,Mainland China,26/1/20,3,46,,,23.0027,109.84,CN
+Fujian,Mainland China,26/1/20,3,35,,,24.513333,117.655556,CN
+Liaoning,Mainland China,26/1/20,3,23,,,41.792222,123.432778,CN
+Hainan,Mainland China,26/1/20,3,22,,,20.045833,110.341667,CN
+Shaanxi,Mainland China,26/1/20,3,22,,,34.258479,108.924205,CN
+Heilongjiang,Mainland China,26/1/20,3,21,1,,45.75,126.65,CN
+Yunnan,Mainland China,26/1/20,3,19,,,25.038889,102.718333,CN
+Hebei,Mainland China,26/1/20,3,18,1,,38.041389,114.478611,CN
+Tianjin,Mainland China,26/1/20,3,14,,,39.142222,117.176667,CN
+Gansu,Mainland China,26/1/20,3,14,,,36.057006,103.839868,CN
+Shanxi,Mainland China,26/1/20,3,13,,,37.869444,112.560278,CN
+Inner Mongolia,Mainland China,26/1/20,3,11,,,40.652222,109.822222,CN
+Hong Kong,Hong Kong,26/1/20,3,8,,,22.396428,114.109497,HK
+Guizhou,Mainland China,26/1/20,3,7,,,26.583333,106.716667,CN
+Jilin,Mainland China,26/1/20,3,6,,,43.88,125.322778,CN
+Macau,Macau,26/1/20,3,6,,,22.198745,113.543873,MO
+Xinjiang,Mainland China,26/1/20,3,5,,,43.807347,87.630506,CN
+Ningxia,Mainland China,26/1/20,3,4,,,38.468056,106.273056,CN
+Taiwan,Taiwan,26/1/20,3,4,,,23.69781,120.960515,TW
+Qinghai,Mainland China,26/1/20,3,4,,,36.625541,101.75739,CN
+Washington,US,26/1/20,3,1,,,37.09024,-95.712891,US
+Illinois,US,26/1/20,3,1,,,37.09024,-95.712891,US
+California,US,26/1/20,3,2,,,37.09024,-95.712891,US
+Arizona,US,26/1/20,3,1,,,37.09024,-95.712891,US
+Japan,Japan,26/1/20,3,4,,1,36.204824,138.252924,JP
+Thailand,Thailand,26/1/20,3,8,,2,15.870032,100.992541,TH
+South Korea,South Korea,26/1/20,3,3,,,35.907757,127.766922,KR
+Singapore,Singapore,26/1/20,3,4,,,1.352083,103.819836,SG
+Vietnam,Vietnam,26/1/20,3,2,,,14.058324,108.277199,VN
+France,France,26/1/20,3,3,,,46.227638,2.213749,FR
+Australia,Australia,26/1/20,3,4,,,-25.274398,133.775136,AU
+Nepal,Nepal,26/1/20,3,1,,,28.394857,84.124008,NP
+Malaysia,Malaysia,26/1/20,3,4,,,4.210484,101.975766,MY
+Ontario,Canada,26/1/20,3,1,,,56.130366,-106.346771,CA
+Hubei,Mainland China,27/1/20,4,2714,100,47,30.583333,114.266667,CN
+Zhejiang,Mainland China,27/1/20,4,173,,1,30.29365,120.161419,CN
+Henan,Mainland China,27/1/20,4,168,1,,34.683611,113.5325,CN
+Guangdong,Mainland China,27/1/20,4,151,,4,23.116667,113.25,CN
+Chongqing,Mainland China,27/1/20,4,132,,,29.562778,106.552778,CN
+Anhui,Mainland China,27/1/20,4,106,,,31.863889,117.280833,CN
+Hunan,Mainland China,27/1/20,4,100,,,28.2,112.966667,CN
+Sichuan,Mainland China,27/1/20,4,90,,,30.666667,104.066667,CN
+Shandong,Mainland China,27/1/20,4,87,1,,36.790556,118.063333,CN
+Beijing,Mainland China,27/1/20,4,80,1,2,39.928819,116.388869,CN
+Jiangxi,Mainland China,27/1/20,4,72,,2,28.655758,115.905049,CN
+Jiangsu,Mainland China,27/1/20,4,70,,1,32.061667,118.777778,CN
+Shanghai,Mainland China,27/1/20,4,66,1,3,31.222222,121.458056,CN
+Fujian,Mainland China,27/1/20,4,59,,,24.513333,117.655556,CN
+Guangxi,Mainland China,27/1/20,4,51,,,23.0027,109.84,CN
+Shaanxi,Mainland China,27/1/20,4,35,,,34.258479,108.924205,CN
+Hainan,Mainland China,27/1/20,4,33,1,,20.045833,110.341667,CN
+Hebei,Mainland China,27/1/20,4,33,1,,38.041389,114.478611,CN
+Heilongjiang,Mainland China,27/1/20,4,30,1,,45.75,126.65,CN
+Liaoning,Mainland China,27/1/20,4,27,,,41.792222,123.432778,CN
+Yunnan,Mainland China,27/1/20,4,26,,,25.038889,102.718333,CN
+Tianjin,Mainland China,27/1/20,4,23,,,39.142222,117.176667,CN
+Shanxi,Mainland China,27/1/20,4,20,,,37.869444,112.560278,CN
+Gansu,Mainland China,27/1/20,4,19,,,36.057006,103.839868,CN
+Inner Mongolia,Mainland China,27/1/20,4,11,,,40.652222,109.822222,CN
+Guizhou,Mainland China,27/1/20,4,9,,,26.583333,106.716667,CN
+Hong Kong,Hong Kong,27/1/20,4,8,,,22.396428,114.109497,HK
+Ningxia,Mainland China,27/1/20,4,7,,,38.468056,106.273056,CN
+Jilin,Mainland China,27/1/20,4,6,,,43.88,125.322778,CN
+Macau,Macau,27/1/20,4,6,,,22.198745,113.543873,MO
+Qinghai,Mainland China,27/1/20,4,6,,,36.625541,101.75739,CN
+Taiwan,Taiwan,27/1/20,4,5,,,23.69781,120.960515,TW
+Xinjiang,Mainland China,27/1/20,4,5,,,43.807347,87.630506,CN
+Washington,US,27/1/20,4,1,,,37.09024,-95.712891,US
+Illinois,US,27/1/20,4,1,,,37.09024,-95.712891,US
+California,US,27/1/20,4,2,,,37.09024,-95.712891,US
+Arizona,US,27/1/20,4,1,,,37.09024,-95.712891,US
+Japan,Japan,27/1/20,4,4,,1,36.204824,138.252924,JP
+Thailand,Thailand,27/1/20,4,8,,2,15.870032,100.992541,TH
+South Korea,South Korea,27/1/20,4,4,,,35.907757,127.766922,KR
+Singapore,Singapore,27/1/20,4,5,,,1.352083,103.819836,SG
+Vietnam,Vietnam,27/1/20,4,2,,,14.058324,108.277199,VN
+France,France,27/1/20,4,3,,,46.227638,2.213749,FR
+Nepal,Nepal,27/1/20,4,1,,,28.394857,84.124008,NP
+Malaysia,Malaysia,27/1/20,4,4,,,4.210484,101.975766,MY
+Ontario,Canada,27/1/20,4,1,,,56.130366,-106.346771,CA
+Cambodia,Cambodia,27/1/20,4,1,,,12.565679,104.990963,KH
+Sri Lanka,Sri Lanka,27/1/20,4,1,,,7.873054,80.771797,LK
+New South Wales,Australia,27/1/20,4,4,,,-25.274398,133.775136,AU
+Victoria,Australia,27/1/20,4,1,,,-25.274398,133.775136,AU
+Bavaria,Germany,27/1/20,4,1,,,51.165691,10.451526,DE
+Hubei,Mainland China,28/1/20,5,3554,125,80,30.583333,114.266667,CN
+Zhejiang,Mainland China,28/1/20,5,296,,3,30.29365,120.161419,CN
+Guangdong,Mainland China,28/1/20,5,241,,5,23.116667,113.25,CN
+Hunan,Mainland China,28/1/20,5,221,,,28.2,112.966667,CN
+Henan,Mainland China,28/1/20,5,206,2,1,34.683611,113.5325,CN
+Anhui,Mainland China,28/1/20,5,152,,,31.863889,117.280833,CN
+Chongqing,Mainland China,28/1/20,5,147,,1,29.562778,106.552778,CN
+Shandong,Mainland China,28/1/20,5,121,,,36.790556,118.063333,CN
+Jiangxi,Mainland China,28/1/20,5,109,,3,28.655758,115.905049,CN
+Sichuan,Mainland China,28/1/20,5,108,,,30.666667,104.066667,CN
+Jiangsu,Mainland China,28/1/20,5,99,,1,32.061667,118.777778,CN
+Beijing,Mainland China,28/1/20,5,91,1,4,39.928819,116.388869,CN
+Fujian,Mainland China,28/1/20,5,82,,,24.513333,117.655556,CN
+Shanghai,Mainland China,28/1/20,5,80,1,4,31.222222,121.458056,CN
+Guangxi,Mainland China,28/1/20,5,58,,2,23.0027,109.84,CN
+Shaanxi,Mainland China,28/1/20,5,56,,,34.258479,108.924205,CN
+Hebei,Mainland China,28/1/20,5,48,1,,38.041389,114.478611,CN
+Yunnan,Mainland China,28/1/20,5,44,,,25.038889,102.718333,CN
+Hainan,Mainland China,28/1/20,5,43,1,,20.045833,110.341667,CN
+Heilongjiang,Mainland China,28/1/20,5,37,1,,45.75,126.65,CN
+Liaoning,Mainland China,28/1/20,5,36,,,41.792222,123.432778,CN
+Shanxi,Mainland China,28/1/20,5,27,,,37.869444,112.560278,CN
+Tianjin,Mainland China,28/1/20,5,25,,,39.142222,117.176667,CN
+Gansu,Mainland China,28/1/20,5,24,,,36.057006,103.839868,CN
+Inner Mongolia,Mainland China,28/1/20,5,16,,,40.652222,109.822222,CN
+Xinjiang,Mainland China,28/1/20,5,13,,,43.807347,87.630506,CN
+Ningxia,Mainland China,28/1/20,5,12,,,38.468056,106.273056,CN
+Guizhou,Mainland China,28/1/20,5,9,,,26.583333,106.716667,CN
+Jilin,Mainland China,28/1/20,5,9,,,43.88,125.322778,CN
+Hong Kong,Hong Kong,28/1/20,5,8,,,22.396428,114.109497,HK
+Taiwan,Taiwan,28/1/20,5,8,,,23.69781,120.960515,TW
+Macau,Macau,28/1/20,5,7,,,22.198745,113.543873,MO
+Qinghai,Mainland China,28/1/20,5,6,,,36.625541,101.75739,CN
+Washington,US,28/1/20,5,1,,,37.09024,-95.712891,US
+Illinois,US,28/1/20,5,1,,,37.09024,-95.712891,US
+California,US,28/1/20,5,2,,,37.09024,-95.712891,US
+Arizona,US,28/1/20,5,1,,,37.09024,-95.712891,US
+Japan,Japan,28/1/20,5,7,,1,36.204824,138.252924,JP
+Thailand,Thailand,28/1/20,5,14,,5,15.870032,100.992541,TH
+South Korea,South Korea,28/1/20,5,4,,,35.907757,127.766922,KR
+Singapore,Singapore,28/1/20,5,7,,,1.352083,103.819836,SG
+Vietnam,Vietnam,28/1/20,5,2,,,14.058324,108.277199,VN
+France,France,28/1/20,5,4,,,46.227638,2.213749,FR
+Nepal,Nepal,28/1/20,5,1,,,28.394857,84.124008,NP
+Malaysia,Malaysia,28/1/20,5,7,,,4.210484,101.975766,MY
+Ontario,Canada,28/1/20,5,1,,,56.130366,-106.346771,CA
+British Columbia,Canada,28/1/20,5,1,,,56.130366,-106.346771,CA
+Cambodia,Cambodia,28/1/20,5,1,,,12.565679,104.990963,KH
+Sri Lanka,Sri Lanka,28/1/20,5,1,,,7.873054,80.771797,LK
+New South Wales,Australia,28/1/20,5,4,,,31.2532,146.9211,AU
+Victoria,Australia,28/1/20,5,1,,,37.4713,144.7852,AU
+Bavaria,Germany,28/1/20,5,4,,,51.165691,10.451526,DE
+Hubei,Mainland China,29/1/20,6,4586,162,90,30.583333,114.266667,CN
+Zhejiang,Mainland China,29/1/20,6,428,,4,30.29365,120.161419,CN
+Guangdong,Mainland China,29/1/20,6,311,,6,23.116667,113.25,CN
+Henan,Mainland China,29/1/20,6,278,2,2,34.683611,113.5325,CN
+Hunan,Mainland China,29/1/20,6,277,,,28.2,112.966667,CN
+Anhui,Mainland China,29/1/20,6,200,,2,31.863889,117.280833,CN
+Chongqing,Mainland China,29/1/20,6,165,,1,29.562778,106.552778,CN
+Jiangxi,Mainland China,29/1/20,6,162,,4,28.655758,115.905049,CN
+Shandong,Mainland China,29/1/20,6,145,,1,36.790556,118.063333,CN
+Sichuan,Mainland China,29/1/20,6,142,1,1,30.666667,104.066667,CN
+Jiangsu,Mainland China,29/1/20,6,129,,1,32.061667,118.777778,CN
+Beijing,Mainland China,29/1/20,6,111,1,4,39.928819,116.388869,CN
+Shanghai,Mainland China,29/1/20,6,101,1,5,31.222222,121.458056,CN
+Fujian,Mainland China,29/1/20,6,101,,,24.513333,117.655556,CN
+Guangxi,Mainland China,29/1/20,6,78,,2,23.0027,109.84,CN
+Hebei,Mainland China,29/1/20,6,65,1,,38.041389,114.478611,CN
+Shaanxi,Mainland China,29/1/20,6,56,,,34.258479,108.924205,CN
+Yunnan,Mainland China,29/1/20,6,55,,,25.038889,102.718333,CN
+Hainan,Mainland China,29/1/20,6,43,1,,20.045833,110.341667,CN
+Heilongjiang,Mainland China,29/1/20,6,43,1,,45.75,126.65,CN
+Liaoning,Mainland China,29/1/20,6,39,,1,41.792222,123.432778,CN
+Shanxi,Mainland China,29/1/20,6,35,,1,37.869444,112.560278,CN
+Tianjin,Mainland China,29/1/20,6,27,,,39.142222,117.176667,CN
+Gansu,Mainland China,29/1/20,6,26,,,36.057006,103.839868,CN
+Inner Mongolia,Mainland China,29/1/20,6,16,,,40.652222,109.822222,CN
+Jilin,Mainland China,29/1/20,6,14,,1,43.88,125.322778,CN
+Xinjiang,Mainland China,29/1/20,6,14,,,43.807347,87.630506,CN
+Guizhou,Mainland China,29/1/20,6,12,,1,26.583333,106.716667,CN
+Ningxia,Mainland China,29/1/20,6,12,,,38.468056,106.273056,CN
+Hong Kong,Hong Kong,29/1/20,6,10,,,22.396428,114.109497,HK
+Taiwan,Taiwan,29/1/20,6,8,,,23.69781,120.960515,TW
+Macau,Macau,29/1/20,6,7,,,22.198745,113.543873,MO
+Qinghai,Mainland China,29/1/20,6,6,,,36.625541,101.75739,CN
+Tibet,Mainland China,29/1/20,6,1,,,29.65,91.1,CN
+Washington,US,29/1/20,6,1,,,37.09024,-95.712891,US
+Illinois,US,29/1/20,6,1,,,37.09024,-95.712891,US
+California,US,29/1/20,6,2,,,37.09024,-95.712891,US
+Arizona,US,29/1/20,6,1,,,37.09024,-95.712891,US
+Japan,Japan,29/1/20,6,11,,1,36.204824,138.252924,JP
+Thailand,Thailand,29/1/20,6,14,,5,15.870032,100.992541,TH
+South Korea,South Korea,29/1/20,6,4,,,35.907757,127.766922,KR
+Singapore,Singapore,29/1/20,6,10,,,1.352083,103.819836,SG
+Vietnam,Vietnam,29/1/20,6,2,,,14.058324,108.277199,VN
+France,France,29/1/20,6,5,,,46.227638,2.213749,FR
+Nepal,Nepal,29/1/20,6,1,,,28.394857,84.124008,NP
+Malaysia,Malaysia,29/1/20,6,7,,,4.210484,101.975766,MY
+Ontario,Canada,29/1/20,6,2,,,56.130366,-106.346771,CA
+British Columbia,Canada,29/1/20,6,1,,,56.130366,-106.346771,CA
+Cambodia,Cambodia,29/1/20,6,1,,,12.565679,104.990963,KH
+Sri Lanka,Sri Lanka,29/1/20,6,1,,,7.873054,80.771797,LK
+New South Wales,Australia,29/1/20,6,4,,,31.2532,146.9211,AU
+Victoria,Australia,29/1/20,6,2,,,37.4713,144.7852,AU
+Queensland,Australia,29/1/20,6,1,,,20.9176,142.7028,AU
+Bavaria,Germany,29/1/20,6,4,,,51.165691,10.451526,DE
+Finland,Finland,29/1/20,6,1,,,61.92411,25.748151,FI
+United Arab Emirates,United Arab Emirates,29/1/20,6,4,,,23.424076,53.847818,AE
+Hubei,Mainland China,30/1/20,7,5806,204,116,30.583333,114.266667,CN
+Zhejiang,Mainland China,30/1/20,7,537,,9,30.29365,120.161419,CN
+Guangdong,Mainland China,30/1/20,7,393,,11,23.116667,113.25,CN
+Henan,Mainland China,30/1/20,7,352,2,3,34.683611,113.5325,CN
+Hunan,Mainland China,30/1/20,7,332,,2,28.2,112.966667,CN
+Jiangxi,Mainland China,30/1/20,7,240,,7,28.655758,115.905049,CN
+Anhui,Mainland China,30/1/20,7,237,,3,31.863889,117.280833,CN
+Chongqing,Mainland China,30/1/20,7,206,,1,29.562778,106.552778,CN
+Shandong,Mainland China,30/1/20,7,178,,2,36.790556,118.063333,CN
+Sichuan,Mainland China,30/1/20,7,177,1,1,30.666667,104.066667,CN
+Jiangsu,Mainland China,30/1/20,7,168,,2,32.061667,118.777778,CN
+Shanghai,Mainland China,30/1/20,7,128,1,9,31.222222,121.458056,CN
+Beijing,Mainland China,30/1/20,7,121,1,5,39.928819,116.388869,CN
+Fujian,Mainland China,30/1/20,7,101,,,24.513333,117.655556,CN
+Guangxi,Mainland China,30/1/20,7,87,,2,23.0027,109.84,CN
+Hebei,Mainland China,30/1/20,7,82,1,,38.041389,114.478611,CN
+Yunnan,Mainland China,30/1/20,7,76,,,25.038889,102.718333,CN
+Shaanxi,Mainland China,30/1/20,7,87,,,34.258479,108.924205,CN
+Heilongjiang,Mainland China,30/1/20,7,59,2,,45.75,126.65,CN
+Hainan,Mainland China,30/1/20,7,50,1,1,20.045833,110.341667,CN
+Liaoning,Mainland China,30/1/20,7,45,,1,41.792222,123.432778,CN
+Shanxi,Mainland China,30/1/20,7,39,,1,37.869444,112.560278,CN
+Tianjin,Mainland China,30/1/20,7,32,,,39.142222,117.176667,CN
+Gansu,Mainland China,30/1/20,7,29,,,36.057006,103.839868,CN
+Ningxia,Mainland China,30/1/20,7,21,,1,38.468056,106.273056,CN
+Inner Mongolia,Mainland China,30/1/20,7,20,,,40.652222,109.822222,CN
+Xinjiang,Mainland China,30/1/20,7,17,,,43.807347,87.630506,CN
+Guizhou,Mainland China,30/1/20,7,15,,1,26.583333,106.716667,CN
+Jilin,Mainland China,30/1/20,7,14,,1,43.88,125.322778,CN
+Hong Kong,Hong Kong,30/1/20,7,12,,,22.396428,114.109497,HK
+Taiwan,Taiwan,30/1/20,7,9,,,23.69781,120.960515,TW
+Qinghai,Mainland China,30/1/20,7,8,,,36.625541,101.75739,CN
+Macau,Macau,30/1/20,7,7,,,22.198745,113.543873,MO
+Tibet,Mainland China,30/1/20,7,1,,,29.65,91.1,CN
+Washington,US,30/1/20,7,1,,,37.09024,-95.712891,US
+Illinois,US,30/1/20,7,2,,,37.09024,-95.712891,US
+California,US,30/1/20,7,2,,,37.09024,-95.712891,US
+Arizona,US,30/1/20,7,1,,,37.09024,-95.712891,US
+Japan,Japan,30/1/20,7,11,,1,36.204824,138.252924,JP
+Thailand,Thailand,30/1/20,7,14,,5,15.870032,100.992541,TH
+South Korea,South Korea,30/1/20,7,6,,,35.907757,127.766922,KR
+Singapore,Singapore,30/1/20,7,10,,,1.352083,103.819836,SG
+Vietnam,Vietnam,30/1/20,7,2,,,14.058324,108.277199,VN
+France,France,30/1/20,7,5,,,46.227638,2.213749,FR
+Nepal,Nepal,30/1/20,7,1,,,28.394857,84.124008,NP
+Malaysia,Malaysia,30/1/20,7,8,,,4.210484,101.975766,MY
+Ontario,Canada,30/1/20,7,2,,,56.130366,-106.346771,CA
+British Columbia,Canada,30/1/20,7,1,,,56.130366,-106.346771,CA
+Cambodia,Cambodia,30/1/20,7,1,,,12.565679,104.990963,KH
+Sri Lanka,Sri Lanka,30/1/20,7,1,,,7.873054,80.771797,LK
+New South Wales,Australia,30/1/20,7,4,,2,31.2532,146.9211,AU
+Victoria,Australia,30/1/20,7,2,,,37.4713,144.7852,AU
+Queensland,Australia,30/1/20,7,3,,,20.9176,142.7028,AU
+Bavaria,Germany,30/1/20,7,4,,,51.165691,10.451526,DE
+Finland,Finland,30/1/20,7,1,,,61.92411,25.748151,FI
+United Arab Emirates,United Arab Emirates,30/1/20,7,4,,,23.424076,53.847818,AE
+Philippines,Philippines,30/1/20,7,1,,,12.879721,121.774017,PH
+India,India,30/1/20,7,1,,,20.593684,78.96288,IN
+Italy,Italy,30/1/20,7,2,,,41.87194,12.56738,IT
+Hubei,Mainland China,31/1/20,8,7153,249,169,30.583333,114.266667,CN
+Zhejiang,Mainland China,31/1/20,8,537,,14,30.29365,120.161419,CN
+Guangdong,Mainland China,31/1/20,8,436,,10,23.116667,113.25,CN
+Henan,Mainland China,31/1/20,8,352,2,3,34.683611,113.5325,CN
+Hunan,Mainland China,31/1/20,8,332,,3,28.2,112.966667,CN
+Jiangxi,Mainland China,31/1/20,8,240,,7,28.655758,115.905049,CN
+Chongqing,Mainland China,31/1/20,8,238,1,1,29.562778,106.552778,CN
+Anhui,Mainland China,31/1/20,8,237,,3,31.863889,117.280833,CN
+Shandong,Mainland China,31/1/20,8,184,,2,36.790556,118.063333,CN
+Sichuan,Mainland China,31/1/20,8,177,1,1,30.666667,104.066667,CN
+Jiangsu,Mainland China,31/1/20,8,168,,5,32.061667,118.777778,CN
+Shanghai,Mainland China,31/1/20,8,153,1,9,31.222222,121.458056,CN
+Beijing,Mainland China,31/1/20,8,139,1,5,39.928819,116.388869,CN
+Fujian,Mainland China,31/1/20,8,120,,,24.513333,117.655556,CN
+Hebei,Mainland China,31/1/20,8,96,1,,38.041389,114.478611,CN
+Guangxi,Mainland China,31/1/20,8,88,,2,23.0027,109.84,CN
+Shaanxi,Mainland China,31/1/20,8,87,,,34.258479,108.924205,CN
+Yunnan,Mainland China,31/1/20,8,83,,1,25.038889,102.718333,CN
+Liaoning,Mainland China,31/1/20,8,60,,1,41.792222,123.432778,CN
+Heilongjiang,Mainland China,31/1/20,8,59,2,,45.75,126.65,CN
+Hainan,Mainland China,31/1/20,8,58,1,1,20.045833,110.341667,CN
+Shanxi,Mainland China,31/1/20,8,47,,1,37.869444,112.560278,CN
+Gansu,Mainland China,31/1/20,8,35,,,36.057006,103.839868,CN
+Tianjin,Mainland China,31/1/20,8,32,,,39.142222,117.176667,CN
+Guizhou,Mainland China,31/1/20,8,29,,2,26.583333,106.716667,CN
+Ningxia,Mainland China,31/1/20,8,21,,1,38.468056,106.273056,CN
+Inner Mongolia,Mainland China,31/1/20,8,20,,,40.652222,109.822222,CN
+Xinjiang,Mainland China,31/1/20,8,17,,,43.807347,87.630506,CN
+Jilin,Mainland China,31/1/20,8,14,,1,43.88,125.322778,CN
+Hong Kong,Hong Kong,31/1/20,8,13,,,22.396428,114.109497,HK
+Taiwan,Taiwan,31/1/20,8,10,,,23.69781,120.960515,TW
+Qinghai,Mainland China,31/1/20,8,8,,,36.625541,101.75739,CN
+Macau,Macau,31/1/20,8,7,,,22.198745,113.543873,MO
+Tibet,Mainland China,31/1/20,8,1,,,29.65,91.1,CN
+Washington,US,31/1/20,8,1,,,37.09024,-95.712891,US
+Illinois,US,31/1/20,8,2,,,37.09024,-95.712891,US
+California,US,31/1/20,8,3,,,37.09024,-95.712891,US
+Arizona,US,31/1/20,8,1,,,37.09024,-95.712891,US
+Japan,Japan,31/1/20,8,17,,1,36.204824,138.252924,JP
+Thailand,Thailand,31/1/20,8,19,,7,15.870032,100.992541,TH
+South Korea,South Korea,31/1/20,8,11,,,35.907757,127.766922,KR
+Singapore,Singapore,31/1/20,8,16,,,1.352083,103.819836,SG
+Vietnam,Vietnam,31/1/20,8,2,,,14.058324,108.277199,VN
+France,France,31/1/20,8,6,,,46.227638,2.213749,FR
+Nepal,Nepal,31/1/20,8,1,,,28.394857,84.124008,NP
+Malaysia,Malaysia,31/1/20,8,8,,,4.210484,101.975766,MY
+Ontario,Canada,31/1/20,8,2,,,56.130366,-106.346771,CA
+British Columbia,Canada,31/1/20,8,1,,,56.130366,-106.346771,CA
+Cambodia,Cambodia,31/1/20,8,1,,,12.565679,104.990963,KH
+Sri Lanka,Sri Lanka,31/1/20,8,1,,,7.873054,80.771797,LK
+New South Wales,Australia,31/1/20,8,4,,2,31.2532,146.9211,AU
+Victoria,Australia,31/1/20,8,2,,,37.4713,144.7852,AU
+Queensland,Australia,31/1/20,8,3,,,20.9176,142.7028,AU
+Bavaria,Germany,31/1/20,8,7,,,51.165691,10.451526,DE
+Finland,Finland,31/1/20,8,1,,,61.92411,25.748151,FI
+United Arab Emirates,United Arab Emirates,31/1/20,8,4,,,23.424076,53.847818,AE
+Philippines,Philippines,31/1/20,8,1,,,12.879721,121.774017,PH
+India,India,31/1/20,8,1,,,20.593684,78.96288,IN
+Italy,Italy,31/1/20,8,2,,,41.87194,12.56738,IT
+Sweden,Sweden,31/1/20,8,1,,,60.128161,18.643501,SE
+Russia,Russia,31/1/20,8,2,,,61.52401,105.318756,RU
+Spain,Spain,31/1/20,8,1,,,40.463667,-3.74922,ES
+UK,UK,31/1/20,8,2,,,55.378051,-3.435973,GB
+Hubei,Mainland China,1/2/20,9,9074,294,215,30.583333,114.266667,CN
+Zhejiang,Mainland China,1/2/20,9,661,0,23,30.29365,120.161419,CN
+Guangdong,Mainland China,1/2/20,9,604,0,14,23.116667,113.25,CN
+Henan,Mainland China,1/2/20,9,493,2,4,34.683611,113.5325,CN
+Hunan,Mainland China,1/2/20,9,463,0,8,28.2,112.966667,CN
+Anhui,Mainland China,1/2/20,9,340,0,5,31.863889,117.280833,CN
+Jiangxi,Mainland China,1/2/20,9,333,0,10,28.655758,115.905049,CN
+Chongqing,Mainland China,1/2/20,9,262,1,3,29.562778,106.552778,CN
+Jiangsu,Mainland China,1/2/20,9,236,0,6,32.061667,118.777778,CN
+Sichuan,Mainland China,1/2/20,9,231,1,3,30.666667,104.066667,CN
+Shandong,Mainland China,1/2/20,9,225,0,5,36.790556,118.063333,CN
+Beijing,Mainland China,1/2/20,9,183,1,9,39.928819,116.388869,CN
+Shanghai,Mainland China,1/2/20,9,177,1,10,31.222222,121.458056,CN
+Fujian,Mainland China,1/2/20,9,159,0,0,24.513333,117.655556,CN
+Shaanxi,Mainland China,1/2/20,9,116,0,0,34.258479,108.924205,CN
+Guangxi,Mainland China,1/2/20,9,111,0,2,23.0027,109.84,CN
+Hebei,Mainland China,1/2/20,9,104,1,3,38.041389,114.478611,CN
+Heilongjiang,Mainland China,1/2/20,9,95,2,2,45.75,126.65,CN
+Yunnan,Mainland China,1/2/20,9,93,0,2,25.038889,102.718333,CN
+Liaoning,Mainland China,1/2/20,9,64,0,1,41.792222,123.432778,CN
+Hainan,Mainland China,1/2/20,9,63,1,1,20.045833,110.341667,CN
+Shanxi,Mainland China,1/2/20,9,56,0,1,37.869444,112.560278,CN
+Tianjin,Mainland China,1/2/20,9,45,0,0,39.142222,117.176667,CN
+Gansu,Mainland China,1/2/20,9,40,0,0,36.057006,103.839868,CN
+Guizhou,Mainland China,1/2/20,9,38,0,2,26.583333,106.716667,CN
+Ningxia,Mainland China,1/2/20,9,28,0,0,38.468056,106.273056,CN
+Inner Mongolia,Mainland China,1/2/20,9,27,0,1,40.652222,109.822222,CN
+Jilin,Mainland China,1/2/20,9,23,0,1,43.88,125.322778,CN
+Xinjiang,Mainland China,1/2/20,9,21,0,0,43.807347,87.630506,CN
+Japan,Japan,1/2/20,9,20,0,1,36.204824,138.252924,JP
+Thailand,Thailand,1/2/20,9,19,0,5,15.870032,100.992541,TH
+Singapore,Singapore,1/2/20,9,18,0,0,1.352083,103.819836,SG
+South Korea,South Korea,1/2/20,9,15,0,0,35.907757,127.766922,KR
+Hong Kong,Hong Kong,1/2/20,9,14,0,0,22.396428,114.109497,HK
+Taiwan,Taiwan,1/2/20,9,10,0,0,23.69781,120.960515,TW
+Qinghai,Mainland China,1/2/20,9,9,0,0,36.625541,101.75739,CN
+Germany,Germany,1/2/20,9,8,0,0,51.165691,10.451526,DE
+Malaysia,Malaysia,1/2/20,9,8,0,0,4.210484,101.975766,MY
+Macau,Macau,1/2/20,9,7,0,0,22.198745,113.543873,MO
+France,France,1/2/20,9,6,0,0,46.227638,2.213749,FR
+Vietnam,Vietnam,1/2/20,9,6,0,1,14.058324,108.277199,VN
+New South Wales,Australia,1/2/20,9,4,0,2,31.2532,146.9211,AU
+Victoria,Australia,1/2/20,9,4,0,0,37.4713,144.7852,AU
+United Arab Emirates,United Arab Emirates,1/2/20,9,4,0,0,23.424076,53.847818,AE
+Queensland,Australia,1/2/20,9,3,0,0,20.9176,142.7028,AU
+Ontario,Canada,1/2/20,9,3,0,0,56.130366,-106.346771,CA
+Italy,Italy,1/2/20,9,2,0,0,41.87194,12.56738,IT
+Philippines,Philippines,1/2/20,9,2,1,0,12.879721,121.774017,PH
+Russia,Russia,1/2/20,9,2,0,0,61.52401,105.318756,RU
+UK,UK,1/2/20,9,2,0,0,55.378051,-3.435973,GB
+Chicago,US,1/2/20,9,2,0,0,41.8781,87.6298,US
+South Australia,Australia,1/2/20,9,1,0,0,-30.000233,136.209152,AU
+Cambodia,Cambodia,1/2/20,9,1,0,0,12.565679,104.990963,KH
+British Columbia,Canada,1/2/20,9,1,0,0,56.130366,-106.346771,CA
+Finland,Finland,1/2/20,9,1,0,0,61.92411,25.748151,FI
+India,India,1/2/20,9,1,0,0,20.593684,78.96288,IN
+Tibet,Mainland China,1/2/20,9,1,0,0,29.65,91.1,CN
+Nepal,Nepal,1/2/20,9,1,0,0,28.394857,84.124008,NP
+Spain,Spain,1/2/20,9,1,0,0,40.463667,-3.74922,ES
+Sri Lanka,Sri Lanka,1/2/20,9,1,0,0,7.873054,80.771797,LK
+Sweden,Sweden,1/2/20,9,1,0,0,60.128161,18.643501,SE
+Boston,US,1/2/20,9,1,0,0,42.3601,71.0589,US
+Los Angeles,US,1/2/20,9,1,0,0,34.052235,-118.243683,US
+Orange,US,1/2/20,9,1,0,0,33.787914,-117.853104,US
+Santa Clara,US,1/2/20,9,1,0,0,37.354107,-121.955238,US
+Seattle,US,1/2/20,9,1,0,0,47.6062,122.3321,US
+Tempe,US,1/2/20,9,1,0,0,33.4255104,-111.9400054,US
