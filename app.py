@@ -163,10 +163,11 @@ nat_options = [{"label": i, "value": i} for i in df['Country'].unique()]
 
 app.layout = html.Div([
     
-    html.Div([html.H1(children='Novel Corona Virus Dashboard', style={'text-align':'center','margin-top':'30px'})],
-            style={'margin-top':'50px'}),
+    html.Div([html.H1(children='2020 Novel Corona Virus Global Dashboard', style={'text-align':'center','margin-top':'20px'})],
+            style={'margin-top':'20px'}),
 
-    html.Div([html.H6(children='Last Update : 01-02-2020 ', style={'text-align':'left','margin-left':'10px'})],
+    html.Div([html.H6(children=' ▶︎ Last Update : 02-02-2020 　　 ▶︎ Desktop view friendly layout',
+             style={'text-align':'left','margin-left':'10px'})],
             style={'margin-top':'20px'}),
 
     html.Div([
@@ -209,7 +210,8 @@ app.layout = html.Div([
     html.Div([html.H6(children='Author : aiden.c.ahn@gmail.com', style={'text-align':'right','margin-top':'10px'})]),
     html.Div([html.H6(children='Data Source : WHO, JHU ', style={'text-align':'right','margin-top':'10px'})]),
 
-])
+],id="mainContainer",
+    style={"display": "flex", "flex-direction": "column"})
 
 # ================================================================ CALLBACK
 
@@ -299,7 +301,8 @@ def update_figure(country):
         #autosize= True,
         title="No of Confirmed / Deaths / Recovered",
         margin=dict(l=30, r=30, t=40, b=30, pad=5),
-        showlegend=True)
+        showlegend=True,
+        legend=dict(x=0.03, y=1.15, font_size=10),)
 
     figure = dict(data=traces, layout=layout)
 
@@ -353,7 +356,11 @@ def update_figure(selected_day):
 
 
     fig.update_layout(
-    # title='No of Confirmed by Region',
+    title=dict(
+        text='No of Confirmed by Region',
+        x=0.5,
+        y=0.95),
+
     yaxis=dict(
         showgrid=False,
         showline=False,
@@ -388,21 +395,21 @@ def update_figure(selected_day):
     annotations = []
 
     # Adding labels
-    for ydn, xd in zip(df2_CN['Confirmed'], df2_CN['State']):
-        annotations.append(dict(xref='x1', yref='y1',
-                                y=xd, x=ydn + 200,
-                                text=ydn,
-                                font=dict(family='Arial', size=12,
-                                      color='#fac1b7'),
-                                showarrow=False))
+    # for ydn, xd in zip(df2_CN['Confirmed'], df2_CN['State']):
+    #     annotations.append(dict(xref='x1', yref='y1',
+    #                             y=xd, x=ydn + 200,
+    #                             text=ydn,
+    #                             font=dict(family='Arial', size=12,
+    #                                   color='#fac1b7'),
+    #                             showarrow=False))
 
-    for ydn, xd in zip(df22['Confirmed'], df22['Country']):
-        annotations.append(dict(xref='x2', yref='y2',
-                                y=xd, x=ydn + 0.5,
-                                text=ydn,
-                                font=dict(family='Arial', size=12,
-                                      color='#92d8d8'),
-                                showarrow=False))
+    # for ydn, xd in zip(df22['Confirmed'], df22['Country']):
+    #     annotations.append(dict(xref='x2', yref='y2',
+    #                             y=xd, x=ydn + 0.5,
+    #                             text=ydn,
+    #                             font=dict(family='Arial', size=12,
+    #                                   color='#92d8d8'),
+    #                             showarrow=False))
 
     fig.update_layout(annotations=annotations)
 
