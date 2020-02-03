@@ -170,7 +170,7 @@ def generate_geo_map(df):
             accesstoken=mapbox_access_token,
             bearing=0,
             center=go.layout.mapbox.Center(
-                lat=30, lon=102
+                lat=25, lon=120
             ),
             pitch=20,
             zoom=2,
@@ -415,9 +415,9 @@ def update_figure(country):
     layout = go.Layout(
         #autosize= True,
         title=dict(text="No of Confirmed / Deaths / Recovered"),
-        margin=dict(l=30, r=30, t=40, b=30, pad=5),
+        margin=dict(l=30, r=30, t=40, b=0, pad=5),
         showlegend=True,
-        legend=dict(x=0.6, y=-0.1, font_size=10, orientation="h"),
+        legend=dict(y=-0.235, font_size=14, orientation="h", xanchor='left'),
         titlefont=dict(size=14))
 
     figure = dict(data=traces, layout=layout)
@@ -502,9 +502,10 @@ def update_figure(selected_day):
         showgrid=True,
         domain=[0.47, 1],
     ),
-    legend=dict(x=0.5, y=-0.1, font_size=10, orientation="h"),
+    legend=dict(y=-0.1, font_size=10, orientation="h", xanchor='left'),
     margin=dict(l=0, r=0, t=10, b=0, pad=5),
     plot_bgcolor='white',
+    titlefont=dict(size=14)
     )
 
     annotations = []
@@ -518,8 +519,4 @@ def update_figure(selected_day):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-
-
-
 
