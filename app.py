@@ -220,7 +220,7 @@ app.layout = html.Div([
     html.Div([html.H1(children='2020 Novel Corona Virus Global Dashboard', style={'text-align':'center','margin-top':'20px'})],
             style={'margin-top':'20px'}),
 
-    html.Div([html.H6(children=' ▶︎ Last Update : 03-02-2020 　　　　　　　　　　　 ▶︎ Best on Desktop',
+    html.Div([html.H6(children=' ▶︎ Last Update : 03-02-2020 　　　　　　　　　　　　　 ▶︎ Best on Desktop',
              style={'text-align':'left','margin-left':'10px'})],
             style={'margin-top':'20px'}),
 
@@ -501,23 +501,6 @@ def update_figure(selected_day):
     )
 
     annotations = []
-
-    # Adding labels
-    # for ydn, xd in zip(df2_CN['Confirmed'], df2_CN['State']):
-    #     annotations.append(dict(xref='x1', yref='y1',
-    #                             y=xd, x=ydn + 200,
-    #                             text=ydn,
-    #                             font=dict(family='Arial', size=12,
-    #                                   color='#fac1b7'),
-    #                             showarrow=False))
-
-    # for ydn, xd in zip(df22['Confirmed'], df22['Country']):
-    #     annotations.append(dict(xref='x2', yref='y2',
-    #                             y=xd, x=ydn + 0.5,
-    #                             text=ydn,
-    #                             font=dict(family='Arial', size=12,
-    #                                   color='#92d8d8'),
-    #                             showarrow=False))
 
     fig.update_layout(annotations=annotations)
 
