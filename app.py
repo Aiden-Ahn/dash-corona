@@ -17,7 +17,7 @@ from plotly.subplots import make_subplots
 mapbox_access_token = "pk.eyJ1IjoicGxvdGx5bWFwYm94IiwiYSI6ImNqdnBvNDMyaTAxYzkzeW5ubWdpZ2VjbmMifQ.TXcBE-xg9BFdV2ocecc_7g"
 
 app = dash.Dash(__name__, meta_tags=[{"name": "viewport", "content": "width=device-width"}])
-
+app.scripts.append_script({'external_url':'https://www.watch-corona.life/assets/gtag.js'})
 server = app.server
 # ================================================================ DATA 
 
