@@ -67,8 +67,6 @@ df.Recovered = df.Recovered.astype(int)
 
 df_show = df[['State','Country','Date','Day_Elapsed','Confirmed','Deaths','Recovered']].sort_values(by=['Date','Confirmed'],ascending=False)
 
-#df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_us_cities.csv')
-#print(df[['State','Confirmed','Deaths','Recovered']])
 
 # ================================================================ GENERAL FUNCTION
 
@@ -283,16 +281,10 @@ app.layout = html.Div([
 
 
     html.Div([
-        html.Div([dcc.Graph(id='trend-line',
-            config={
-                        'displayModeBar': False
-                    })
+        html.Div([dcc.Graph(id='trend-line')
             ], className="pretty_container six columns"),
         html.Div([
-            html.Div([dcc.Graph(id='geo-map',
-                config={
-                        'displayModeBar': False
-                    })]),
+            html.Div([dcc.Graph(id='geo-map')]),
             ], className="pretty_container six columns"),
     ], className="row flex-display"),
 
@@ -301,10 +293,7 @@ app.layout = html.Div([
     html.Div([
         html.Div([html.Div(id='raw_main_table'),
             ], className="pretty_container six columns"),
-        html.Div([dcc.Graph(id='bar-chart',
-            config={
-                        'displayModeBar': False
-                    })
+        html.Div([dcc.Graph(id='bar-chart')
             ],className="pretty_container six columns"),
 
         ], className="row flex-display"),
@@ -345,6 +334,7 @@ def update_figure(selected_day):
     return generate_geo_map(df2)
 
 
+
 @app.callback(
     Output('raw_main_table', 'children'),
     [Input('nat_dropdown','value')])
@@ -383,7 +373,7 @@ def update_figure(country):
     else:
         df = df_show[df_show['Country']==country]
 
-    df2 = df.groupby('Date')['Confirmed','Deaths','Recovered'].sum()
+    df2 = df.groupby('Date')[['Confirmed','Deaths','Recovered']].sum()
     day_list = list(df2.index)
 
     traces = [
