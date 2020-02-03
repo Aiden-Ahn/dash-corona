@@ -192,7 +192,7 @@ app.layout = html.Div([
     html.Div([html.H1(children='2020 Novel Corona Virus Global Dashboard', style={'text-align':'center','margin-top':'20px'})],
             style={'margin-top':'20px'}),
 
-    html.Div([html.H6(children=' ▶︎ Last Update : 02-02-2020 　　 ▶︎ Desktop view friendly layout',
+    html.Div([html.H6(children=' ▶︎ Last Update : 02-02-2020 　　　　 ▶︎ Best on Desktop',
              style={'text-align':'left','margin-left':'10px'})],
             style={'margin-top':'20px'}),
 
