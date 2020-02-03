@@ -10,6 +10,7 @@ import numpy as np
 import plotly.graph_objects as go
 import math
 from plotly.subplots import make_subplots
+import json
 
 #external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
@@ -54,7 +55,16 @@ df_show = df[['State','Country','Date','Day_Elapsed','Confirmed','Deaths','Recov
 
 # ================================================================ GENERAL FUNCTION
 
+def get_kpi(df_kpi):
+    #df_kpi = df[df['Day_Elapsed'] == df['Day_Elapsed'].max()]
 
+    Confirmed = df_kpi['Confirmed'].sum()
+    Deaths = int(df_kpi['Deaths'].sum())
+    Recovered = int(df_kpi['Recovered'].sum())
+    No_Contries = len(df_kpi['Country'].unique())
+    Death_rate = round(df_kpi['Deaths'].sum() / df_kpi['Confirmed'].sum() * 100, 2)
+
+    return(str(Confirmed), str(Deaths), str(Recovered), str(No_Contries), str(Death_rate) + "%")
 
 def generate_geo_map(df):
 
@@ -197,6 +207,43 @@ app.layout = html.Div([
             style={'margin-top':'20px'}),
 
     html.Div([
+        # html.Div(
+        #     [
+                html.Div(
+                    [html.H6(id="sum_confirmed", style={'font-size':'35px','text-align':'center','color':'red'}), 
+                    html.P("Confirmed",style={'font-size':'20px','text-align':'center'})],
+                    id="confirmed",
+                    className="pretty_container three columns",
+                ),
+                html.Div(
+                    [html.H6(id="sum_deaths", style={'font-size':'35px','text-align':'center'}), 
+                    html.P("Deaths",style={'font-size':'20px','text-align':'center'})],
+                    id="deaths",
+                    className="pretty_container three columns",
+                ),
+                html.Div(
+                    [html.H6(id="sum_recovered", style={'font-size':'35px','text-align':'center'}), 
+                    html.P("Recovered",style={'font-size':'20px','text-align':'center'})],
+                    id="recovered",
+                    className="pretty_container three columns",
+                ),
+                html.Div(
+                    [html.H6(id="sum_no_countries", style={'font-size':'35px','text-align':'center'}), 
+                    html.P("No. of Countries",style={'font-size':'20px','text-align':'center'})],
+                    id="countries",
+                    className="pretty_container three columns",
+                ),
+                html.Div(
+                    [html.H6(id="death_rate", style={'font-size':'35px','text-align':'center'}), 
+                    html.P("Fatality Rate",style={'font-size':'20px','text-align':'center'})],
+                    id="CFR",
+                    className="pretty_container three columns",
+                ),
+            # ], className="row container-display",
+            #     style={"width":"100%"}),
+    ], className="row flex-display"),
+
+    html.Div([
         html.Div([
             html.Div(children=''' Select Country :  '''),
             dcc.Dropdown(
@@ -209,10 +256,10 @@ app.layout = html.Div([
         
         html.Div([
             html.Div(children=" Select the date :  "),
-            html.Div(day_slider, style={'margin-top':'5px'})
+            html.Div(day_slider, style={'margin-top':'5px','margin-right':'5px','margin-left':'5px'})
             ], className="pretty_container six columns")
 
-        ], className="row flex-display"),
+    ], className="row flex-display"),
 
 
     html.Div([
@@ -221,7 +268,7 @@ app.layout = html.Div([
         html.Div([
             html.Div([dcc.Graph(id='geo-map')]),
             ], className="pretty_container six columns"),
-        ], className="row flex-display"),
+    ], className="row flex-display"),
 
     
 
@@ -240,6 +287,23 @@ app.layout = html.Div([
     style={"display": "flex", "flex-direction": "column"})
 
 # ================================================================ CALLBACK
+
+@app.callback(
+    [Output('sum_confirmed','children'),
+    Output('sum_deaths','children'),
+    Output('sum_recovered','children'),
+    Output('sum_no_countries','children'),
+    Output('death_rate','children'),
+    ],
+    [Input('day-slider','value')])
+def update_figure(selected_day):
+
+    print("KPI - " + str(selected_day))
+    df2 = df_show[df_show['Day_Elapsed'] == selected_day]
+    print(df2.head())
+
+    return get_kpi(df2)
+
 
 @app.callback(
     Output('geo-map', 'figure'),
