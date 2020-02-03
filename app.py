@@ -49,6 +49,8 @@ app.index_string = """<!DOCTYPE html>
     </body>
 </html>"""
 
+app.title = 'Corona Dashboard'
+
 server = app.server
 # ================================================================ DATA 
 
@@ -196,8 +198,8 @@ geo_map = html.Div(
                     ],
                 ),
 
-print(df_show.iloc[:,1:4].head())
-print(df['Day_Elapsed'].unique())
+# print(df_show.iloc[:,1:4].head())
+# print(df['Day_Elapsed'].unique())
 
 day_slider = dcc.Slider(
         id='day-slider',
@@ -220,9 +222,13 @@ app.layout = html.Div([
     html.Div([html.H1(children='2020 Novel Corona Virus Global Dashboard', style={'text-align':'center','margin-top':'20px'})],
             style={'margin-top':'20px'}),
 
-    html.Div([html.H6(children=' ▶︎ Last Update : 03-02-2020 　　　　　　　　　　　　　 ▶︎ Best on Desktop',
+    html.Div([html.H6(children=' ▶︎ Last Update : 03-02-2020',
              style={'text-align':'left','margin-left':'10px'})],
             style={'margin-top':'20px'}),
+
+    html.Div([html.H6(children=' ▶︎ Best on Desktop',
+             style={'text-align':'left','margin-left':'10px'})]),
+
 
     html.Div([
         # html.Div(
@@ -408,10 +414,11 @@ def update_figure(country):
 
     layout = go.Layout(
         #autosize= True,
-        title="No of Confirmed / Deaths / Recovered",
+        title=dict(text="No of Confirmed / Deaths / Recovered"),
         margin=dict(l=30, r=30, t=40, b=30, pad=5),
         showlegend=True,
-        legend=dict(x=0.03, y=1.15, font_size=10),)
+        legend=dict(x=0.6, y=-0.1, font_size=10, orientation="h"),
+        titlefont=dict(size=14))
 
     figure = dict(data=traces, layout=layout)
 
@@ -495,7 +502,7 @@ def update_figure(selected_day):
         showgrid=True,
         domain=[0.47, 1],
     ),
-    legend=dict(x=-0.15, y=1, font_size=10),
+    legend=dict(x=0.5, y=-0.1, font_size=10, orientation="h"),
     margin=dict(l=0, r=0, t=10, b=0, pad=5),
     plot_bgcolor='white',
     )
@@ -506,6 +513,7 @@ def update_figure(selected_day):
 
 
     return fig
+
 
 
 if __name__ == '__main__':
