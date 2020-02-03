@@ -219,7 +219,7 @@ app.layout = html.Div([
         html.Div([dcc.Graph(id='trend-line')
             ], className="pretty_container six columns"),
         html.Div([
-            html.Div([dcc.Graph(id='bar-chart')]),
+            html.Div([dcc.Graph(id='geo-map')]),
             ], className="pretty_container six columns"),
         ], className="row flex-display"),
 
@@ -228,7 +228,7 @@ app.layout = html.Div([
     html.Div([
         html.Div([html.Div(id='raw_main_table'),
             ], className="pretty_container six columns"),
-        html.Div([dcc.Graph(id='geo-map')
+        html.Div([dcc.Graph(id='bar-chart')
             ],className="pretty_container six columns"),
 
         ], className="row flex-display"),
