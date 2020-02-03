@@ -81,7 +81,7 @@ def generate_geo_map(df):
             mode="markers",
             marker=dict(
                 color=color,
-                showscale=True,
+                showscale=False,
                 colorscale=[
                     [0, "#21c7ef"],
                     [0.33, "#76f2ff"],
@@ -183,7 +183,7 @@ app.layout = html.Div([
         
         html.Div([
             html.Div(children=" Select the date :  "),
-            html.Div(day_slider, style={'margin-top':'30px'})
+            html.Div(day_slider, style={'margin-top':'5px'})
             ], className="pretty_container six columns")
 
         ], className="row flex-display"),
@@ -323,7 +323,6 @@ def update_figure(selected_day):
     df22 = df2.groupby('Country')['Confirmed'].sum()
     df22 = df22.sort_values(ascending=True)
     df22 = df22.reset_index()
-    print(df22.head())
 
     fig = make_subplots(rows=1, cols=2, specs=[[{}, {}]], shared_xaxes=False,
                     shared_yaxes=False, vertical_spacing=0.001)
