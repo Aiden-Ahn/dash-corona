@@ -621,7 +621,16 @@ there.
 }
 
 /* Larger than desktop */
-@media (min-width: 1000px) {
+@media all and (max-width: 500px) {
+
+  .rc-slider-mark-text,
+  .rc-slider-mark-text-active {
+    font-size:2vw;
+  }
+
+  text.gtitle {
+    font-size:1.5rem;
+  }
 }
 
 /* Larger than Desktop HD */
