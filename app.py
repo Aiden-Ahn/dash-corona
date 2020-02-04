@@ -211,7 +211,13 @@ day_slider = dcc.Slider(
         step=1
         ),
 
-nat_options = [{"label": i, "value": i} for i in df['Country'].unique()]
+
+cnt_list = df['Country'].unique()
+cnt_list.sort()
+
+nat_options = [{"label": i, "value": i} for i in cnt_list]
+
+# nat_options = [{"label": i, "value": i} for i in df['Country'].unique()]
 
 # ================================================================ LAYOUT
 
