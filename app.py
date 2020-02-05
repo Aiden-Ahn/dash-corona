@@ -633,7 +633,7 @@ def update_figure(selected_day):
             title = 'Gdp V. Life V. No of Confirmed',
             x="GDP per Cap", y="Life Exp",
             size="size", color="continent",
-            hover_name="Country", log_x=True, size_max=200)
+            hover_name="Country", log_x=True, size_max=60)
 
     fig.update_layout( 
     legend=dict(orientation="h", y=-0.3, yanchor="bottom", x=0.5, xanchor="center"
