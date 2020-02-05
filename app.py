@@ -15,6 +15,7 @@ import plotly.graph_objects as go
 import math
 from plotly.subplots import make_subplots
 import json
+import plotly.express as px
 
 #external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
