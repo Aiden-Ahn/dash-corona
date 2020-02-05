@@ -309,6 +309,12 @@ app.layout = html.Div([
             ],className="pretty_container six columns"),
 
         ], className="row flex-display"),
+    
+    html.Div([
+        html.Div([dcc.Graph(id='gdp-chart',config={'displayModeBar': False})
+            ], className="pretty_container tweleve columns")
+
+        ], className="row flex-display"),
 
     html.Div([html.H6(children='Author : aiden.c.ahn@gmail.com', style={'text-align':'right','margin-top':'10px'})]),
     html.Div([html.H6(children='Data Source : WHO, JHU ', style={'text-align':'right','margin-top':'10px'})]),
@@ -521,6 +527,120 @@ def update_figure(selected_day):
 
     return fig
 
+@app.callback(
+    Output('bar-chart', 'figure'),
+    [Input('day-slider', 'value')])
+def update_figure(selected_day):
+
+    df2 = df[(df['Day_Elapsed'] == selected_day) & (df['nat_cod'] != 'CN')]
+    df2_CN = df[(df['Day_Elapsed'] == selected_day) & (df['nat_cod'] == 'CN')]
+    df2_CN = df2_CN.sort_values(by=['Confirmed'])
+    #print("Bar - " + str(selected_day))
+
+
+    df22 = df2.groupby('Country')['Confirmed'].sum()
+    df22 = df22.sort_values(ascending=True)
+    df22 = df22.reset_index()
+
+    fig = make_subplots(rows=1, cols=2, specs=[[{}, {}]], shared_xaxes=False,
+                    shared_yaxes=False, vertical_spacing=0.001)
+
+    fig.append_trace(go.Bar(
+        x=df2_CN['Confirmed'],
+        y=df2_CN['State'],
+        marker=dict(
+            color='#fac1b7',
+            line=dict(
+                color='#fac1b7',
+                width=1),
+        ),
+        name='Inside China by State',
+        orientation='h',
+    ), 1, 1)
+
+    fig.append_trace(go.Bar(
+        x=df22['Confirmed'],
+        y=df22['Country'],
+        marker=dict(
+            color='#92d8d8',
+            line=dict(
+                color='#92d8d8',
+                width=1),
+        ),
+        name='Outside of China by Country',
+        orientation='h',
+    ), 1, 2)
+
+
+    fig.update_layout(
+    title=dict(
+        text='No of Confirmed by Region',
+        x=0.5,
+        y=0.95),
+
+    yaxis=dict(
+        showgrid=False,
+        showline=False,
+        showticklabels=True,
+        domain=[0, 0.85],
+    ),
+    yaxis2=dict(
+        showgrid=False,
+        showline=False,
+        showticklabels=True ,
+        domain=[0, 0.85],
+    ),
+    xaxis=dict(
+        zeroline=False,
+        showline=False,
+        showticklabels=True,
+        showgrid=True,
+        domain=[0, 0.42],
+    ),
+    xaxis2=dict(
+        zeroline=False,
+        showline=False,
+        showticklabels=True,
+        showgrid=True,
+        domain=[0.47, 1],
+    ),
+    legend=dict(y=-0.1, font_size=10, orientation="h", xanchor='left'),
+    margin=dict(l=0, r=0, t=10, b=0, pad=5),
+    plot_bgcolor='white',
+    titlefont=dict(size=14)
+    )
+
+    annotations = []
+    fig.update_layout(annotations=annotations)
+
+    return fig
+
+
+@app.callback(
+    Output('gdp-chart','figure'),
+    [Input('day-slider','value')])
+def update_figure(selected_day):
+
+    df2 = df[(df['Day_Elapsed'] == selected_day)]
+
+    d = {'Confirmed':'Confirmed','gdp':'GDP per Cap','life_exp':'Life Exp'}
+    df22 = df2.groupby(by = ['Country','continent','Day_Elapsed']).agg({'Confirmed':'sum','gdp':'mean','life_exp':'mean'}).rename(columns=d)
+    #df22 = df22.sort_values(ascending=True)
+    df22 = df22.reset_index()
+    df22['size'] = df22['Confirmed'].apply(lambda x: math.log(x,6)*10)
+
+    fig = px.scatter(df22,
+            title = 'Gdp V. Life V. No of Confirmed',
+            x="GDP per Cap", y="Life Exp",
+            size="size", color="continent",
+            hover_name="Country", log_x=True, size_max=200)
+
+    fig.update_layout( 
+    legend=dict(orientation="h", y=-0.3, yanchor="bottom", x=0.5, xanchor="center"
+        )
+    )
+
+    return fig
 
 
 if __name__ == '__main__':
